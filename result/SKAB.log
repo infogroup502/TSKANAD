@@ -1,0 +1,3684 @@
+
+
+
+2024-10-19 14:09:15
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+
+
+
+2024-10-19 14:09:27
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.901s 
+anormly_ratio 0.3
+Threshold : 0.35363185679912595
+pa_accuracy           : 0.9981
+pa_precision          : 0.9945
+pa_recall             : 1.0000
+pa_f_score            : 0.9973
+MCC_score             : 0.9958
+Affiliation precision : 0.6398
+Affiliation recall    : 0.8316
+R_AUC_ROC             : 0.9535
+R_AUC_PR              : 0.9699
+VUS_ROC               : 0.9561
+VUS_PR                : 0.9719
+Accuracy : 0.9981, Precision : 0.9945, Recall : 1.0000, F-score : 0.9973 
+
+
+
+2024-10-19 14:09:36
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 64
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 29184
+Epoch: 1, Cost time: 1.881s 
+anormly_ratio 0.3
+Threshold : 0.3637370821833612
+pa_accuracy           : 0.9982
+pa_precision          : 0.9950
+pa_recall             : 1.0000
+pa_f_score            : 0.9975
+MCC_score             : 0.9962
+Affiliation precision : 0.6785
+Affiliation recall    : 0.8358
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9705
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9725
+Accuracy : 0.9982, Precision : 0.9950, Recall : 1.0000, F-score : 0.9975 
+
+
+
+2024-10-19 14:09:45
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.901s 
+anormly_ratio 0.3
+Threshold : 0.369071343958378
+pa_accuracy           : 0.9984
+pa_precision          : 0.9955
+pa_recall             : 1.0000
+pa_f_score            : 0.9978
+MCC_score             : 0.9965
+Affiliation precision : 0.7207
+Affiliation recall    : 0.8404
+R_AUC_ROC             : 0.9538
+R_AUC_PR              : 0.9704
+VUS_ROC               : 0.9564
+VUS_PR                : 0.9725
+Accuracy : 0.9984, Precision : 0.9955, Recall : 1.0000, F-score : 0.9978 
+
+
+
+2024-10-19 14:09:54
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.099s 
+anormly_ratio 0.3
+Threshold : 0.3712006810903552
+pa_accuracy           : 0.9988
+pa_precision          : 0.9965
+pa_recall             : 1.0000
+pa_f_score            : 0.9983
+MCC_score             : 0.9973
+Affiliation precision : 0.7014
+Affiliation recall    : 0.8186
+R_AUC_ROC             : 0.9541
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9566
+VUS_PR                : 0.9729
+Accuracy : 0.9988, Precision : 0.9965, Recall : 1.0000, F-score : 0.9983 
+
+
+
+2024-10-19 14:10:03
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 512
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 233472
+Epoch: 1, Cost time: 2.779s 
+anormly_ratio 0.3
+Threshold : 0.3750231808125974
+pa_accuracy           : 0.8587
+pa_precision          : 0.9926
+pa_recall             : 0.6010
+pa_f_score            : 0.7487
+MCC_score             : 0.6985
+Affiliation precision : 0.5200
+Affiliation recall    : 0.6310
+R_AUC_ROC             : 0.7334
+R_AUC_PR              : 0.8341
+VUS_ROC               : 0.7140
+VUS_PR                : 0.8215
+Accuracy : 0.8587, Precision : 0.9926, Recall : 0.6010, F-score : 0.7487 
+
+
+
+2024-10-19 14:12:40
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.083s 
+anormly_ratio 0.3
+Threshold : 0.38951316958665866
+pa_accuracy           : 0.9282
+pa_precision          : 0.9963
+pa_recall             : 0.7980
+pa_f_score            : 0.8862
+MCC_score             : 0.8456
+Affiliation precision : 0.6999
+Affiliation recall    : 0.7663
+R_AUC_ROC             : 0.8005
+R_AUC_PR              : 0.8765
+VUS_ROC               : 0.8151
+VUS_PR                : 0.8852
+Accuracy : 0.9282, Precision : 0.9963, Recall : 0.7980, F-score : 0.8862 
+
+
+
+2024-10-19 14:12:50
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.138s 
+anormly_ratio 0.3
+Threshold : 0.37137706223130235
+pa_accuracy           : 0.9986
+pa_precision          : 0.9960
+pa_recall             : 1.0000
+pa_f_score            : 0.9980
+MCC_score             : 0.9969
+Affiliation precision : 0.6747
+Affiliation recall    : 0.8024
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9706
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9726
+Accuracy : 0.9986, Precision : 0.9960, Recall : 1.0000, F-score : 0.9980 
+
+
+
+2024-10-19 14:12:59
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.097s 
+anormly_ratio 0.3
+Threshold : 0.3653690634369851
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-19 14:13:09
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.096s 
+anormly_ratio 0.3
+Threshold : 0.3621760785579682
+pa_accuracy           : 0.8580
+pa_precision          : 0.9934
+pa_recall             : 0.5985
+pa_f_score            : 0.7470
+MCC_score             : 0.6972
+Affiliation precision : 0.5727
+Affiliation recall    : 0.6506
+R_AUC_ROC             : 0.6817
+R_AUC_PR              : 0.8024
+VUS_ROC               : 0.6889
+VUS_PR                : 0.8065
+Accuracy : 0.8580, Precision : 0.9934, Recall : 0.5985, F-score : 0.7470 
+
+
+
+2024-10-19 14:13:18
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.114s 
+anormly_ratio 0.3
+Threshold : 0.3601955517530443
+pa_accuracy           : 0.7879
+pa_precision          : 0.9888
+pa_recall             : 0.3990
+pa_f_score            : 0.5686
+MCC_score             : 0.5431
+Affiliation precision : 0.5371
+Affiliation recall    : 0.6190
+R_AUC_ROC             : 0.6312
+R_AUC_PR              : 0.7703
+VUS_ROC               : 0.6177
+VUS_PR                : 0.7611
+Accuracy : 0.7879, Precision : 0.9888, Recall : 0.3990, F-score : 0.5686 
+
+
+
+2024-10-19 14:13:27
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.138s 
+anormly_ratio 0.3
+Threshold : 0.35916825070977226
+pa_accuracy           : 0.8581
+pa_precision          : 0.9942
+pa_recall             : 0.5985
+pa_f_score            : 0.7472
+MCC_score             : 0.6977
+Affiliation precision : 0.6134
+Affiliation recall    : 0.6531
+R_AUC_ROC             : 0.6820
+R_AUC_PR              : 0.8032
+VUS_ROC               : 0.6891
+VUS_PR                : 0.8072
+Accuracy : 0.8581, Precision : 0.9942, Recall : 0.5985, F-score : 0.7472 
+
+
+
+2024-10-19 14:13:37
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.102s 
+anormly_ratio 0.3
+Threshold : 0.35984154924750344
+pa_accuracy           : 0.9280
+pa_precision          : 0.9956
+pa_recall             : 0.7980
+pa_f_score            : 0.8859
+MCC_score             : 0.8452
+Affiliation precision : 0.6181
+Affiliation recall    : 0.7262
+R_AUC_ROC             : 0.8006
+R_AUC_PR              : 0.8765
+VUS_ROC               : 0.8278
+VUS_PR                : 0.8927
+Accuracy : 0.9280, Precision : 0.9956, Recall : 0.7980, F-score : 0.8859 
+
+
+
+2024-10-19 14:13:46
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.119s 
+anormly_ratio 0.3
+Threshold : 0.3617244889438153
+pa_accuracy           : 0.9280
+pa_precision          : 0.9956
+pa_recall             : 0.7980
+pa_f_score            : 0.8859
+MCC_score             : 0.8452
+Affiliation precision : 0.6158
+Affiliation recall    : 0.7113
+R_AUC_ROC             : 0.8006
+R_AUC_PR              : 0.8765
+VUS_ROC               : 0.8278
+VUS_PR                : 0.8927
+Accuracy : 0.9280, Precision : 0.9956, Recall : 0.7980, F-score : 0.8859 
+
+
+
+2024-10-19 14:13:55
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.103s 
+anormly_ratio 0.3
+Threshold : 0.36446802663803124
+pa_accuracy           : 0.9278
+pa_precision          : 0.9950
+pa_recall             : 0.7980
+pa_f_score            : 0.8857
+MCC_score             : 0.8447
+Affiliation precision : 0.6321
+Affiliation recall    : 0.7602
+R_AUC_ROC             : 0.8004
+R_AUC_PR              : 0.8761
+VUS_ROC               : 0.8276
+VUS_PR                : 0.8924
+Accuracy : 0.9278, Precision : 0.9950, Recall : 0.7980, F-score : 0.8857 
+
+
+
+2024-10-19 14:14:05
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.124s 
+anormly_ratio 0.3
+Threshold : 0.3712007054388526
+pa_accuracy           : 0.9988
+pa_precision          : 0.9965
+pa_recall             : 1.0000
+pa_f_score            : 0.9983
+MCC_score             : 0.9973
+Affiliation precision : 0.7014
+Affiliation recall    : 0.8186
+R_AUC_ROC             : 0.9541
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9566
+VUS_PR                : 0.9729
+Accuracy : 0.9988, Precision : 0.9965, Recall : 1.0000, F-score : 0.9983 
+
+
+
+2024-10-19 14:14:14
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.087s 
+anormly_ratio 0.3
+Threshold : 0.39031115737557426
+pa_accuracy           : 0.8585
+pa_precision          : 0.9917
+pa_recall             : 0.6010
+pa_f_score            : 0.7484
+MCC_score             : 0.6980
+Affiliation precision : 0.5761
+Affiliation recall    : 0.6945
+R_AUC_ROC             : 0.6820
+R_AUC_PR              : 0.8020
+VUS_ROC               : 0.6833
+VUS_PR                : 0.8027
+Accuracy : 0.8585, Precision : 0.9917, Recall : 0.6010, F-score : 0.7484 
+
+
+
+2024-10-19 14:16:26
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.19
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.087s 
+anormly_ratio 0.3
+Threshold : 0.3655707645118237
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-19 14:16:35
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.21
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.101s 
+anormly_ratio 0.3
+Threshold : 0.3649007845818998
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-19 14:17:59
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.857s 
+anormly_ratio 0.3
+Threshold : 0.37891847857832917
+pa_accuracy           : 0.8566
+pa_precision          : 0.9828
+pa_recall             : 0.6010
+pa_f_score            : 0.7459
+MCC_score             : 0.6923
+Affiliation precision : 0.4969
+Affiliation recall    : 0.7588
+R_AUC_ROC             : 0.7326
+R_AUC_PR              : 0.8306
+VUS_ROC               : 0.7471
+VUS_PR                : 0.8389
+Accuracy : 0.8566, Precision : 0.9828, Recall : 0.6010, F-score : 0.7459 
+
+
+
+2024-10-19 14:18:07
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 64
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 29184
+Epoch: 1, Cost time: 1.855s 
+anormly_ratio 0.3
+Threshold : 0.3653927254378797
+pa_accuracy           : 0.9982
+pa_precision          : 0.9950
+pa_recall             : 1.0000
+pa_f_score            : 0.9975
+MCC_score             : 0.9962
+Affiliation precision : 0.6687
+Affiliation recall    : 0.8086
+R_AUC_ROC             : 0.9534
+R_AUC_PR              : 0.9698
+VUS_ROC               : 0.9560
+VUS_PR                : 0.9719
+Accuracy : 0.9982, Precision : 0.9950, Recall : 1.0000, F-score : 0.9975 
+
+
+
+2024-10-19 14:18:16
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.861s 
+anormly_ratio 0.3
+Threshold : 0.37043581908941287
+pa_accuracy           : 0.9282
+pa_precision          : 0.9932
+pa_recall             : 0.8005
+pa_f_score            : 0.8865
+MCC_score             : 0.8452
+Affiliation precision : 0.6034
+Affiliation recall    : 0.7820
+R_AUC_ROC             : 0.8009
+R_AUC_PR              : 0.8758
+VUS_ROC               : 0.8027
+VUS_PR                : 0.8770
+Accuracy : 0.9282, Precision : 0.9932, Recall : 0.8005, F-score : 0.8865 
+
+
+
+2024-10-19 14:18:25
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.092s 
+anormly_ratio 0.3
+Threshold : 0.3653690634369851
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-19 14:18:34
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 512
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 233472
+Epoch: 1, Cost time: 2.753s 
+anormly_ratio 0.3
+Threshold : 0.367764472514391
+pa_accuracy           : 0.7876
+pa_precision          : 0.9864
+pa_recall             : 0.3990
+pa_f_score            : 0.5682
+MCC_score             : 0.5418
+Affiliation precision : 0.5224
+Affiliation recall    : 0.6761
+R_AUC_ROC             : 0.6307
+R_AUC_PR              : 0.7684
+VUS_ROC               : 0.6205
+VUS_PR                : 0.7616
+Accuracy : 0.7876, Precision : 0.9864, Recall : 0.3990, F-score : 0.5682 
+
+
+
+2024-10-20 22:50:55
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.832s 
+anormly_ratio 0.3
+Threshold : 0.37781880587339417
+pa_accuracy           : 0.7874
+pa_precision          : 0.9852
+pa_recall             : 0.3990
+pa_f_score            : 0.5680
+MCC_score             : 0.5411
+Affiliation precision : 0.5685
+Affiliation recall    : 0.7551
+R_AUC_ROC             : 0.6308
+R_AUC_PR              : 0.7685
+VUS_ROC               : 0.6503
+VUS_PR                : 0.7797
+Accuracy : 0.7874, Precision : 0.9852, Recall : 0.3990, F-score : 0.5680 
+
+
+
+2024-10-20 22:51:40
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.843s 
+anormly_ratio 0.3
+Threshold : 0.37891847857832917
+pa_accuracy           : 0.8566
+pa_precision          : 0.9828
+pa_recall             : 0.6010
+pa_f_score            : 0.7459
+MCC_score             : 0.6923
+Affiliation precision : 0.4969
+Affiliation recall    : 0.7588
+R_AUC_ROC             : 0.7326
+R_AUC_PR              : 0.8306
+VUS_ROC               : 0.7471
+VUS_PR                : 0.8389
+Accuracy : 0.8566, Precision : 0.9828, Recall : 0.6010, F-score : 0.7459 
+
+
+
+2024-10-20 22:52:36
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.107s 
+anormly_ratio 0.3
+Threshold : 0.3653690634369851
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-20 22:53:20
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+params_num 10770
+Epoch: 1, Cost time: 1.832s 
+anormly_ratio 0.3
+Threshold : 0.3645279774963859
+pa_accuracy           : 0.8564
+pa_precision          : 0.9860
+pa_recall             : 0.5985
+pa_f_score            : 0.7449
+MCC_score             : 0.6925
+Affiliation precision : 0.4641
+Affiliation recall    : 0.7283
+R_AUC_ROC             : 0.7319
+R_AUC_PR              : 0.8311
+VUS_ROC               : 0.7108
+VUS_PR                : 0.8173
+Accuracy : 0.8564, Precision : 0.9860, Recall : 0.5985, F-score : 0.7449 
+
+
+
+2024-10-20 22:53:54
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.095s 
+anormly_ratio 0.3
+Threshold : 0.37179953166842467
+pa_accuracy           : 0.7877
+pa_precision          : 0.9876
+pa_recall             : 0.3990
+pa_f_score            : 0.5684
+MCC_score             : 0.5424
+Affiliation precision : 0.5573
+Affiliation recall    : 0.7246
+R_AUC_ROC             : 0.6311
+R_AUC_PR              : 0.7698
+VUS_ROC               : 0.6491
+VUS_PR                : 0.7801
+Accuracy : 0.7877, Precision : 0.9876, Recall : 0.3990, F-score : 0.5684 
+
+
+
+2024-10-20 22:59:11
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.105s 
+anormly_ratio 0.3
+Threshold : 0.38066633218526863
+pa_accuracy           : 0.9977
+pa_precision          : 0.9935
+pa_recall             : 1.0000
+pa_f_score            : 0.9968
+MCC_score             : 0.9950
+Affiliation precision : 0.5238
+Affiliation recall    : 0.7862
+R_AUC_ROC             : 0.9530
+R_AUC_PR              : 0.9691
+VUS_ROC               : 0.9556
+VUS_PR                : 0.9713
+Accuracy : 0.9977, Precision : 0.9935, Recall : 1.0000, F-score : 0.9968 
+
+
+
+2024-10-22 10:44:56
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+params_num 921088
+
+
+
+2024-10-22 10:45:15
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+grid_size 3
+spline_order 2
+params_num 68096
+Epoch: 1, Cost time: 2.917s 
+anormly_ratio 0.3
+Threshold : 0.3800888108313085
+pa_accuracy           : 0.9277
+pa_precision          : 0.9913
+pa_recall             : 0.8005
+pa_f_score            : 0.8858
+MCC_score             : 0.8439
+Affiliation precision : 0.6040
+Affiliation recall    : 0.7618
+R_AUC_ROC             : 0.8689
+R_AUC_PR              : 0.9171
+VUS_ROC               : 0.8340
+VUS_PR                : 0.8952
+Accuracy : 0.9277, Precision : 0.9913, Recall : 0.8005, F-score : 0.8858 
+
+
+
+2024-10-22 10:46:17
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.075s 
+anormly_ratio 0.3
+Threshold : 0.3712006810903552
+pa_accuracy           : 0.9988
+pa_precision          : 0.9965
+pa_recall             : 1.0000
+pa_f_score            : 0.9983
+MCC_score             : 0.9973
+Affiliation precision : 0.7014
+Affiliation recall    : 0.8186
+R_AUC_ROC             : 0.9541
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9566
+VUS_PR                : 0.9729
+Accuracy : 0.9988, Precision : 0.9965, Recall : 1.0000, F-score : 0.9983 
+
+
+
+2024-10-22 10:47:09
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.095s 
+anormly_ratio 0.3
+Threshold : 0.3653690634369851
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-22 10:47:29
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.102s 
+anormly_ratio 0.4
+Threshold : 0.36198580276966097
+pa_accuracy           : 0.9977
+pa_precision          : 0.9935
+pa_recall             : 1.0000
+pa_f_score            : 0.9968
+MCC_score             : 0.9950
+Affiliation precision : 0.6079
+Affiliation recall    : 0.8383
+R_AUC_ROC             : 0.9536
+R_AUC_PR              : 0.9698
+VUS_ROC               : 0.9562
+VUS_PR                : 0.9719
+Accuracy : 0.9977, Precision : 0.9935, Recall : 1.0000, F-score : 0.9968 
+
+
+
+2024-10-22 10:47:45
+================ Hyperparameters ===============
+anormly_ratio: 0.29
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.102s 
+anormly_ratio 0.29
+Threshold : 0.36558757881224113
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7084
+Affiliation recall    : 0.7727
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-22 10:47:59
+================ Hyperparameters ===============
+anormly_ratio: 0.2
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.086s 
+anormly_ratio 0.2
+Threshold : 0.3689085590839386
+pa_accuracy           : 0.8585
+pa_precision          : 0.9958
+pa_recall             : 0.5985
+pa_f_score            : 0.7477
+MCC_score             : 0.6988
+Affiliation precision : 0.5855
+Affiliation recall    : 0.6000
+R_AUC_ROC             : 0.6821
+R_AUC_PR              : 0.8037
+VUS_ROC               : 0.6834
+VUS_PR                : 0.8043
+Accuracy : 0.8585, Precision : 0.9958, Recall : 0.5985, F-score : 0.7477 
+
+
+
+2024-10-22 10:48:19
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.089s 
+anormly_ratio 0.35
+Threshold : 0.3636670318394899
+pa_accuracy           : 0.9989
+pa_precision          : 0.9970
+pa_recall             : 1.0000
+pa_f_score            : 0.9985
+MCC_score             : 0.9977
+Affiliation precision : 0.7314
+Affiliation recall    : 0.7821
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9729
+Accuracy : 0.9989, Precision : 0.9970, Recall : 1.0000, F-score : 0.9985 
+
+
+
+2024-10-22 10:48:44
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 136192
+Epoch: 1, Cost time: 2.217s 
+anormly_ratio 0.3
+Threshold : 0.3705964010357862
+pa_accuracy           : 0.9287
+pa_precision          : 0.9950
+pa_recall             : 0.8005
+pa_f_score            : 0.8872
+MCC_score             : 0.8466
+Affiliation precision : 0.5904
+Affiliation recall    : 0.7246
+R_AUC_ROC             : 0.8014
+R_AUC_PR              : 0.8768
+VUS_ROC               : 0.8032
+VUS_PR                : 0.8780
+Accuracy : 0.9287, Precision : 0.9950, Recall : 0.8005, F-score : 0.8872 
+
+
+
+2024-10-22 10:50:42
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 136192
+Epoch: 1, Cost time: 2.216s 
+anormly_ratio 0.3
+Threshold : 0.3760665510892868
+pa_accuracy           : 0.7881
+pa_precision          : 0.9841
+pa_recall             : 0.4015
+pa_f_score            : 0.5703
+MCC_score             : 0.5425
+Affiliation precision : 0.5599
+Affiliation recall    : 0.6668
+R_AUC_ROC             : 0.6311
+R_AUC_PR              : 0.7677
+VUS_ROC               : 0.6297
+VUS_PR                : 0.7662
+Accuracy : 0.7881, Precision : 0.9841, Recall : 0.4015, F-score : 0.5703 
+
+
+
+2024-10-22 10:51:03
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 136192
+Epoch: 1, Cost time: 2.220s 
+anormly_ratio 0.3
+Threshold : 0.3705964010357862
+pa_accuracy           : 0.9287
+pa_precision          : 0.9950
+pa_recall             : 0.8005
+pa_f_score            : 0.8872
+MCC_score             : 0.8466
+Affiliation precision : 0.5904
+Affiliation recall    : 0.7246
+R_AUC_ROC             : 0.8014
+R_AUC_PR              : 0.8768
+VUS_ROC               : 0.8032
+VUS_PR                : 0.8780
+Accuracy : 0.9287, Precision : 0.9950, Recall : 0.8005, F-score : 0.8872 
+
+
+
+2024-10-22 10:51:58
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+params_num 97280
+Epoch: 1, Cost time: 1.990s 
+anormly_ratio 0.3
+Threshold : 0.36463281223177935
+pa_accuracy           : 0.7876
+pa_precision          : 0.9864
+pa_recall             : 0.3990
+pa_f_score            : 0.5682
+MCC_score             : 0.5418
+Affiliation precision : 0.4346
+Affiliation recall    : 0.5177
+R_AUC_ROC             : 0.5970
+R_AUC_PR              : 0.7483
+VUS_ROC               : 0.6018
+VUS_PR                : 0.7506
+Accuracy : 0.7876, Precision : 0.9864, Recall : 0.3990, F-score : 0.5682 
+
+
+
+2024-10-22 10:53:08
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+params_num 77824
+Epoch: 1, Cost time: 1.884s 
+anormly_ratio 0.3
+Threshold : 0.36793039777874953
+pa_accuracy           : 0.9981
+pa_precision          : 0.9945
+pa_recall             : 1.0000
+pa_f_score            : 0.9973
+MCC_score             : 0.9958
+Affiliation precision : 0.6855
+Affiliation recall    : 0.8271
+R_AUC_ROC             : 0.9539
+R_AUC_PR              : 0.9703
+VUS_ROC               : 0.9563
+VUS_PR                : 0.9722
+Accuracy : 0.9981, Precision : 0.9945, Recall : 1.0000, F-score : 0.9973 
+
+
+
+2024-10-22 10:53:39
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.877s 
+anormly_ratio 0.3
+Threshold : 0.3674593626558786
+pa_accuracy           : 0.9278
+pa_precision          : 0.9919
+pa_recall             : 0.8005
+pa_f_score            : 0.8860
+MCC_score             : 0.8444
+Affiliation precision : 0.5683
+Affiliation recall    : 0.7822
+R_AUC_ROC             : 0.8006
+R_AUC_PR              : 0.8752
+VUS_ROC               : 0.8024
+VUS_PR                : 0.8764
+Accuracy : 0.9278, Precision : 0.9919, Recall : 0.8005, F-score : 0.8860 
+
+
+
+2024-10-22 10:56:45
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.868s 
+anormly_ratio 0.3
+Threshold : 0.3797251329421998
+pa_accuracy           : 0.9273
+pa_precision          : 0.9901
+pa_recall             : 0.8005
+pa_f_score            : 0.8853
+MCC_score             : 0.8430
+Affiliation precision : 0.5346
+Affiliation recall    : 0.6854
+R_AUC_ROC             : 0.8004
+R_AUC_PR              : 0.8746
+VUS_ROC               : 0.8022
+VUS_PR                : 0.8757
+Accuracy : 0.9273, Precision : 0.9901, Recall : 0.8005, F-score : 0.8853 
+
+
+
+2024-10-22 10:57:18
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+params_num 77824
+Epoch: 1, Cost time: 1.889s 
+anormly_ratio 0.3
+Threshold : 0.37829609504342104
+pa_accuracy           : 0.9975
+pa_precision          : 0.9930
+pa_recall             : 1.0000
+pa_f_score            : 0.9965
+MCC_score             : 0.9946
+Affiliation precision : 0.5217
+Affiliation recall    : 0.8037
+R_AUC_ROC             : 0.9533
+R_AUC_PR              : 0.9694
+VUS_ROC               : 0.9557
+VUS_PR                : 0.9713
+Accuracy : 0.9975, Precision : 0.9930, Recall : 1.0000, F-score : 0.9965 
+
+
+
+2024-10-22 10:57:43
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+params_num 97280
+Epoch: 1, Cost time: 2.101s 
+anormly_ratio 0.3
+Threshold : 0.36050565612316143
+pa_accuracy           : 0.9280
+pa_precision          : 0.9956
+pa_recall             : 0.7980
+pa_f_score            : 0.8859
+MCC_score             : 0.8452
+Affiliation precision : 0.6867
+Affiliation recall    : 0.7661
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.9180
+VUS_ROC               : 0.8463
+VUS_PR                : 0.9041
+Accuracy : 0.9280, Precision : 0.9956, Recall : 0.7980, F-score : 0.8859 
+
+
+
+2024-10-22 10:57:54
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 136192
+Epoch: 1, Cost time: 2.206s 
+anormly_ratio 0.3
+Threshold : 0.3760665510892868
+pa_accuracy           : 0.7881
+pa_precision          : 0.9841
+pa_recall             : 0.4015
+pa_f_score            : 0.5703
+MCC_score             : 0.5425
+Affiliation precision : 0.5599
+Affiliation recall    : 0.6668
+R_AUC_ROC             : 0.6311
+R_AUC_PR              : 0.7677
+VUS_ROC               : 0.6297
+VUS_PR                : 0.7662
+Accuracy : 0.7881, Precision : 0.9841, Recall : 0.4015, F-score : 0.5703 
+
+
+
+2024-10-22 11:00:24
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 16
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 7296
+Epoch: 1, Cost time: 1.894s 
+anormly_ratio 0.3
+Threshold : 0.06850216907262799
+pa_accuracy           : 0.9279
+pa_precision          : 0.9926
+pa_recall             : 0.8005
+pa_f_score            : 0.8862
+MCC_score             : 0.8447
+Affiliation precision : 0.6280
+Affiliation recall    : 0.7845
+R_AUC_ROC             : 0.8697
+R_AUC_PR              : 0.9184
+VUS_ROC               : 0.8661
+VUS_PR                : 0.9162
+Accuracy : 0.9279, Precision : 0.9926, Recall : 0.8005, F-score : 0.8862 
+
+
+
+2024-10-22 11:00:33
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.964s 
+anormly_ratio 0.3
+Threshold : 0.07031078211963175
+pa_accuracy           : 0.8579
+pa_precision          : 0.9901
+pa_recall             : 0.6010
+pa_f_score            : 0.7480
+MCC_score             : 0.6968
+Affiliation precision : 0.5236
+Affiliation recall    : 0.7277
+R_AUC_ROC             : 0.7334
+R_AUC_PR              : 0.8336
+VUS_ROC               : 0.7342
+VUS_PR                : 0.8340
+Accuracy : 0.8579, Precision : 0.9901, Recall : 0.6010, F-score : 0.7480 
+
+
+
+2024-10-22 11:00:42
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 64
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 29184
+Epoch: 1, Cost time: 2.434s 
+anormly_ratio 0.3
+Threshold : 0.06891961716115473
+pa_accuracy           : 0.9981
+pa_precision          : 0.9945
+pa_recall             : 1.0000
+pa_f_score            : 0.9973
+MCC_score             : 0.9958
+Affiliation precision : 0.6469
+Affiliation recall    : 0.8541
+R_AUC_ROC             : 0.9542
+R_AUC_PR              : 0.9706
+VUS_ROC               : 0.9566
+VUS_PR                : 0.9725
+Accuracy : 0.9981, Precision : 0.9945, Recall : 1.0000, F-score : 0.9973 
+
+
+
+2024-10-22 11:00:52
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 3.402s 
+anormly_ratio 0.3
+Threshold : 0.06769830600917334
+pa_accuracy           : 0.7872
+pa_precision          : 0.9864
+pa_recall             : 0.3990
+pa_f_score            : 0.5682
+MCC_score             : 0.5416
+Affiliation precision : 0.4795
+Affiliation recall    : 0.5908
+R_AUC_ROC             : 0.6310
+R_AUC_PR              : 0.7694
+VUS_ROC               : 0.6457
+VUS_PR                : 0.7779
+Accuracy : 0.7872, Precision : 0.9864, Recall : 0.3990, F-score : 0.5682 
+
+
+
+2024-10-22 11:01:03
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 5.228s 
+anormly_ratio 0.3
+Threshold : 0.06860588787496079
+pa_accuracy           : 0.9288
+pa_precision          : 0.9956
+pa_recall             : 0.8005
+pa_f_score            : 0.8875
+MCC_score             : 0.8469
+Affiliation precision : 0.6488
+Affiliation recall    : 0.7083
+R_AUC_ROC             : 0.8012
+R_AUC_PR              : 0.8768
+VUS_ROC               : 0.8032
+VUS_PR                : 0.8783
+Accuracy : 0.9288, Precision : 0.9956, Recall : 0.8005, F-score : 0.8875 
+
+
+
+2024-10-22 11:03:30
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 16
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 7296
+Epoch: 1, Cost time: 1.893s 
+anormly_ratio 0.3
+Threshold : 0.36742332553863527
+pa_accuracy           : 0.9273
+pa_precision          : 0.9932
+pa_recall             : 0.7980
+pa_f_score            : 0.8849
+MCC_score             : 0.8434
+Affiliation precision : 0.6100
+Affiliation recall    : 0.8337
+R_AUC_ROC             : 0.8682
+R_AUC_PR              : 0.9172
+VUS_ROC               : 0.8671
+VUS_PR                : 0.9166
+Accuracy : 0.9273, Precision : 0.9932, Recall : 0.7980, F-score : 0.8849 
+
+
+
+2024-10-22 11:03:39
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.962s 
+anormly_ratio 0.3
+Threshold : 0.35363185679912595
+pa_accuracy           : 0.9981
+pa_precision          : 0.9945
+pa_recall             : 1.0000
+pa_f_score            : 0.9973
+MCC_score             : 0.9958
+Affiliation precision : 0.6398
+Affiliation recall    : 0.8316
+R_AUC_ROC             : 0.9535
+R_AUC_PR              : 0.9699
+VUS_ROC               : 0.9561
+VUS_PR                : 0.9719
+Accuracy : 0.9981, Precision : 0.9945, Recall : 1.0000, F-score : 0.9973 
+
+
+
+2024-10-22 11:03:48
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 64
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 29184
+Epoch: 1, Cost time: 1.894s 
+anormly_ratio 0.3
+Threshold : 0.3637370821833612
+pa_accuracy           : 0.9982
+pa_precision          : 0.9950
+pa_recall             : 1.0000
+pa_f_score            : 0.9975
+MCC_score             : 0.9962
+Affiliation precision : 0.6785
+Affiliation recall    : 0.8358
+R_AUC_ROC             : 0.9540
+R_AUC_PR              : 0.9705
+VUS_ROC               : 0.9565
+VUS_PR                : 0.9725
+Accuracy : 0.9982, Precision : 0.9950, Recall : 1.0000, F-score : 0.9975 
+
+
+
+2024-10-22 11:03:57
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.906s 
+anormly_ratio 0.3
+Threshold : 0.369071343958378
+pa_accuracy           : 0.9984
+pa_precision          : 0.9955
+pa_recall             : 1.0000
+pa_f_score            : 0.9978
+MCC_score             : 0.9965
+Affiliation precision : 0.7207
+Affiliation recall    : 0.8404
+R_AUC_ROC             : 0.9538
+R_AUC_PR              : 0.9704
+VUS_ROC               : 0.9564
+VUS_PR                : 0.9725
+Accuracy : 0.9984, Precision : 0.9955, Recall : 1.0000, F-score : 0.9978 
+
+
+
+2024-10-22 11:04:06
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 256
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 116736
+Epoch: 1, Cost time: 2.139s 
+anormly_ratio 0.3
+Threshold : 0.3712007054388526
+pa_accuracy           : 0.9988
+pa_precision          : 0.9965
+pa_recall             : 1.0000
+pa_f_score            : 0.9983
+MCC_score             : 0.9973
+Affiliation precision : 0.7014
+Affiliation recall    : 0.8186
+R_AUC_ROC             : 0.9541
+R_AUC_PR              : 0.9708
+VUS_ROC               : 0.9566
+VUS_PR                : 0.9729
+Accuracy : 0.9988, Precision : 0.9965, Recall : 1.0000, F-score : 0.9983 
+
+
+
+2024-10-24 11:27:39
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 2.811s 
+anormly_ratio 0.3
+Threshold : 0.3741604646444321
+Noiserate 0
+pa_accuracy           : 0.9291
+pa_precision          : 0.9963
+pa_recall             : 0.8005
+pa_f_score            : 0.8877
+MCC_score             : 0.8475
+Affiliation precision : 0.6879
+Affiliation recall    : 0.7485
+R_AUC_ROC             : 0.8016
+R_AUC_PR              : 0.8773
+VUS_ROC               : 0.8034
+VUS_PR                : 0.8785
+Accuracy : 0.9291, Precision : 0.9963, Recall : 0.8005, F-score : 0.8877 
+
+
+
+2024-10-24 12:07:52
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.757s 
+anormly_ratio 0.3
+Threshold : 0.3741604889929295
+Noiserate 0
+pa_accuracy           : 0.9291
+pa_precision          : 0.9963
+pa_recall             : 0.8005
+pa_f_score            : 0.8877
+MCC_score             : 0.8475
+Affiliation precision : 0.6879
+Affiliation recall    : 0.7485
+R_AUC_ROC             : 0.8016
+R_AUC_PR              : 0.8773
+VUS_ROC               : 0.8034
+VUS_PR                : 0.8785
+Accuracy : 0.9291, Precision : 0.9963, Recall : 0.8005, F-score : 0.8877 
+
+
+
+2025-01-02 16:49:54
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 9
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 9
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 21888
+
+
+
+2025-01-02 16:50:12
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 20352
+Epoch: 1, Cost time: 2.207s 
+anormly_ratio 0.4
+Threshold : 0.06091175904870037
+Noiserate 0
+pa_accuracy           : 0.9268
+pa_precision          : 0.9889
+pa_recall             : 0.8005
+pa_f_score            : 0.8848
+MCC_score             : 0.8420
+Affiliation precision : 0.5477
+Affiliation recall    : 0.8633
+R_AUC_ROC             : 0.8688
+R_AUC_PR              : 0.9166
+VUS_ROC               : 0.8700
+VUS_PR                : 0.9175
+Accuracy : 0.9268, Precision : 0.9889, Recall : 0.8005, F-score : 0.8848 
+
+
+
+2025-01-02 16:52:50
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 81408
+
+
+
+2025-01-02 16:53:15
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [1]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [1]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 52224
+
+
+
+2025-01-02 16:53:23
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [1]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+
+
+
+2025-01-02 16:53:40
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [1]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+
+
+
+2025-01-02 16:54:06
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 32
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 14592
+Epoch: 1, Cost time: 1.754s 
+anormly_ratio 0.4
+Threshold : 0.35441878461837845
+Noiserate 0
+pa_accuracy           : 0.9949
+pa_precision          : 0.9857
+pa_recall             : 1.0000
+pa_f_score            : 0.9928
+MCC_score             : 0.9889
+Affiliation precision : 0.6040
+Affiliation recall    : 0.8996
+R_AUC_ROC             : 0.9532
+R_AUC_PR              : 0.9679
+VUS_ROC               : 0.9556
+VUS_PR                : 0.9698
+Accuracy : 0.9949, Precision : 0.9857, Recall : 1.0000, F-score : 0.9928 
+
+
+
+2025-01-02 16:54:22
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.889s 
+anormly_ratio 0.4
+Threshold : 0.351803126692772
+Noiserate 0
+pa_accuracy           : 0.9979
+pa_precision          : 0.9940
+pa_recall             : 1.0000
+pa_f_score            : 0.9970
+MCC_score             : 0.9954
+Affiliation precision : 0.7040
+Affiliation recall    : 0.9005
+R_AUC_ROC             : 0.9534
+R_AUC_PR              : 0.9696
+VUS_ROC               : 0.9560
+VUS_PR                : 0.9717
+Accuracy : 0.9979, Precision : 0.9940, Recall : 1.0000, F-score : 0.9970 
+
+
+
+2025-01-02 16:55:37
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 58368
+Epoch: 1, Cost time: 1.856s 
+anormly_ratio 0.4
+Threshold : 0.351803126692772
+Noiserate 0
+pa_accuracy           : 0.9979
+pa_precision          : 0.9940
+pa_recall             : 1.0000
+pa_f_score            : 0.9970
+MCC_score             : 0.9954
+Affiliation precision : 0.7040
+Affiliation recall    : 0.9005
+R_AUC_ROC             : 0.9534
+R_AUC_PR              : 0.9696
+VUS_ROC               : 0.9560
+VUS_PR                : 0.9717
+Accuracy : 0.9979, Precision : 0.9940, Recall : 1.0000, F-score : 0.9970 
+
+
+
+2025-01-02 16:57:12
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+params_num 24320
+Epoch: 1, Cost time: 1.988s 
+anormly_ratio 0.4
+Threshold : 0.3582519294023514
+Noiserate 0
+
+
+
+2025-01-02 16:57:46
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+params_num 24320
+
+
+
+2025-01-02 16:58:19
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 128
+data_path: SKAB
+dataset: SKAB
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 8
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 8
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+params_num 24320
+Epoch: 1, Cost time: 1.739s 
+anormly_ratio 0.4
+Threshold : 0.3582519294023514
+Noiserate 0
+pa_accuracy           : 0.9268
+pa_precision          : 0.9883
+pa_recall             : 0.8005
+pa_f_score            : 0.8845
+MCC_score             : 0.8417
+Affiliation precision : 0.5234
+Affiliation recall    : 0.8220
+R_AUC_ROC             : 0.7995
+R_AUC_PR              : 0.8730
+VUS_ROC               : 0.8015
+VUS_PR                : 0.8745
+Accuracy : 0.9268, Precision : 0.9883, Recall : 0.8005, F-score : 0.8845 

@@ -1,0 +1,3156 @@
+
+
+
+2024-10-18 22:03:13
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:04:44
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:09:58
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:10:37
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:18:24
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:18:37
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+
+
+
+2024-10-18 22:27:02
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+
+
+
+2024-10-18 22:27:24
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [25]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [5]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 10
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 90
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 142080
+	speed: 0.1909s/iter; left time: 400.0184s
+	speed: 0.1781s/iter; left time: 355.2447s
+	speed: 0.1776s/iter; left time: 336.4815s
+	speed: 0.1774s/iter; left time: 318.5083s
+	speed: 0.1763s/iter; left time: 298.8348s
+	speed: 0.1779s/iter; left time: 283.6878s
+	speed: 0.1770s/iter; left time: 264.6078s
+	speed: 0.1761s/iter; left time: 245.6504s
+	speed: 0.1776s/iter; left time: 229.9979s
+	speed: 0.1770s/iter; left time: 211.4991s
+	speed: 0.1771s/iter; left time: 193.9011s
+	speed: 0.1769s/iter; left time: 176.0251s
+	speed: 0.1759s/iter; left time: 157.3913s
+	speed: 0.1764s/iter; left time: 140.2762s
+	speed: 0.1748s/iter; left time: 121.4634s
+	speed: 0.1749s/iter; left time: 104.0367s
+	speed: 0.1748s/iter; left time: 86.5477s
+	speed: 0.1749s/iter; left time: 69.0734s
+	speed: 0.1749s/iter; left time: 51.6088s
+	speed: 0.1749s/iter; left time: 34.1140s
+	speed: 0.1750s/iter; left time: 16.6270s
+Epoch: 1, Cost time: 388.114s 
+anormly_ratio 0.4
+Threshold : 0.021590266704559324
+pa_accuracy           : 0.9837
+pa_precision          : 0.9211
+pa_recall             : 0.7716
+pa_f_score            : 0.8397
+MCC_score             : 0.8348
+Affiliation precision : 0.5364
+Affiliation recall    : 0.9548
+R_AUC_ROC             : 0.7767
+R_AUC_PR              : 0.7545
+VUS_ROC               : 0.7583
+VUS_PR                : 0.7373
+Accuracy : 0.9837, Precision : 0.9211, Recall : 0.7716, F-score : 0.8397 
+
+
+
+2024-10-18 22:40:03
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.2368s/iter; left time: 236.2778s
+	speed: 0.2224s/iter; left time: 199.7291s
+	speed: 0.2227s/iter; left time: 177.7514s
+	speed: 0.2229s/iter; left time: 155.5583s
+	speed: 0.2230s/iter; left time: 133.3721s
+	speed: 0.2231s/iter; left time: 111.1033s
+	speed: 0.2233s/iter; left time: 88.8582s
+	speed: 0.2233s/iter; left time: 66.5308s
+	speed: 0.2232s/iter; left time: 44.1998s
+	speed: 0.2233s/iter; left time: 21.8853s
+Epoch: 1, Cost time: 246.090s 
+
+
+
+2024-10-19 10:12:03
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1378s/iter; left time: 288.7298s
+	speed: 0.1131s/iter; left time: 225.5613s
+	speed: 0.1130s/iter; left time: 214.1585s
+	speed: 0.0951s/iter; left time: 170.6621s
+	speed: 0.1129s/iter; left time: 191.2970s
+	speed: 0.1129s/iter; left time: 180.1165s
+	speed: 0.1128s/iter; left time: 168.6915s
+	speed: 0.1129s/iter; left time: 157.4715s
+	speed: 0.1129s/iter; left time: 146.2140s
+	speed: 0.1133s/iter; left time: 135.3402s
+	speed: 0.1130s/iter; left time: 123.7720s
+	speed: 0.1130s/iter; left time: 112.4015s
+	speed: 0.1130s/iter; left time: 101.0980s
+	speed: 0.1129s/iter; left time: 89.7932s
+	speed: 0.1130s/iter; left time: 78.5263s
+	speed: 0.1130s/iter; left time: 67.2090s
+	speed: 0.1129s/iter; left time: 55.9020s
+	speed: 0.1129s/iter; left time: 44.6073s
+	speed: 0.1130s/iter; left time: 33.3329s
+	speed: 0.1129s/iter; left time: 22.0246s
+	speed: 0.1129s/iter; left time: 10.7300s
+Epoch: 1, Cost time: 248.559s 
+anormly_ratio 0.4
+Threshold : 0.03722344614565383
+pa_accuracy           : 0.9823
+pa_precision          : 0.9292
+pa_recall             : 0.7353
+pa_f_score            : 0.8210
+MCC_score             : 0.8179
+Affiliation precision : 0.4826
+Affiliation recall    : 0.9236
+R_AUC_ROC             : 0.6773
+R_AUC_PR              : 0.6650
+VUS_ROC               : 0.6934
+VUS_PR                : 0.6802
+Accuracy : 0.9823, Precision : 0.9292, Recall : 0.7353, F-score : 0.8210 
+
+
+
+2024-10-19 10:19:19
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1269s/iter; left time: 265.7896s
+	speed: 0.1131s/iter; left time: 225.5534s
+	speed: 0.1131s/iter; left time: 214.2598s
+	speed: 0.1130s/iter; left time: 202.9228s
+	speed: 0.1131s/iter; left time: 191.7850s
+	speed: 0.1131s/iter; left time: 180.4638s
+	speed: 0.1131s/iter; left time: 169.1581s
+	speed: 0.1132s/iter; left time: 157.9338s
+	speed: 0.1132s/iter; left time: 146.6028s
+	speed: 0.1133s/iter; left time: 135.3502s
+	speed: 0.1134s/iter; left time: 124.1380s
+	speed: 0.1140s/iter; left time: 113.4062s
+	speed: 0.1132s/iter; left time: 101.2964s
+	speed: 0.1132s/iter; left time: 90.0001s
+	speed: 0.1133s/iter; left time: 78.7318s
+	speed: 0.1132s/iter; left time: 67.3771s
+	speed: 0.1133s/iter; left time: 56.0652s
+	speed: 0.1133s/iter; left time: 44.7463s
+	speed: 0.1132s/iter; left time: 33.4078s
+	speed: 0.1133s/iter; left time: 22.0906s
+	speed: 0.1133s/iter; left time: 10.7633s
+Epoch: 1, Cost time: 249.845s 
+anormly_ratio 0.4
+Threshold : 0.03364202649891389
+pa_accuracy           : 0.9775
+pa_precision          : 0.9043
+pa_recall             : 0.6625
+pa_f_score            : 0.7648
+MCC_score             : 0.7633
+Affiliation precision : 0.4942
+Affiliation recall    : 0.9497
+R_AUC_ROC             : 0.6797
+R_AUC_PR              : 0.6562
+VUS_ROC               : 0.6911
+VUS_PR                : 0.6668
+Accuracy : 0.9775, Precision : 0.9043, Recall : 0.6625, F-score : 0.7648 
+
+
+
+2024-10-19 10:26:36
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1272s/iter; left time: 266.4809s
+	speed: 0.1134s/iter; left time: 226.1347s
+	speed: 0.1133s/iter; left time: 214.7551s
+	speed: 0.1134s/iter; left time: 203.4672s
+	speed: 0.1135s/iter; left time: 192.3083s
+	speed: 0.1134s/iter; left time: 180.8917s
+	speed: 0.1135s/iter; left time: 169.6991s
+	speed: 0.1135s/iter; left time: 158.3001s
+	speed: 0.1134s/iter; left time: 146.8868s
+	speed: 0.1135s/iter; left time: 135.6657s
+	speed: 0.1135s/iter; left time: 124.2797s
+	speed: 0.1135s/iter; left time: 112.9450s
+	speed: 0.1136s/iter; left time: 101.6366s
+	speed: 0.1135s/iter; left time: 90.2061s
+	speed: 0.1136s/iter; left time: 78.9356s
+	speed: 0.1135s/iter; left time: 67.5350s
+	speed: 0.1136s/iter; left time: 56.2166s
+	speed: 0.1136s/iter; left time: 44.8580s
+	speed: 0.1136s/iter; left time: 33.4996s
+	speed: 0.1136s/iter; left time: 22.1515s
+	speed: 0.1136s/iter; left time: 10.7896s
+Epoch: 1, Cost time: 250.399s 
+anormly_ratio 0.4
+Threshold : 0.034606002882122996
+pa_accuracy           : 0.9779
+pa_precision          : 0.9217
+pa_recall             : 0.6555
+pa_f_score            : 0.7661
+MCC_score             : 0.7670
+Affiliation precision : 0.4802
+Affiliation recall    : 0.9062
+R_AUC_ROC             : 0.6393
+R_AUC_PR              : 0.6260
+VUS_ROC               : 0.6535
+VUS_PR                : 0.6394
+Accuracy : 0.9779, Precision : 0.9217, Recall : 0.6555, F-score : 0.7661 
+
+
+
+2024-10-19 10:33:54
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1278s/iter; left time: 267.7706s
+	speed: 0.1133s/iter; left time: 226.0874s
+	speed: 0.1134s/iter; left time: 214.9439s
+	speed: 0.1135s/iter; left time: 203.7075s
+	speed: 0.1137s/iter; left time: 192.7362s
+	speed: 0.1137s/iter; left time: 181.3108s
+	speed: 0.1137s/iter; left time: 169.9473s
+	speed: 0.1137s/iter; left time: 158.5875s
+	speed: 0.1137s/iter; left time: 147.2203s
+	speed: 0.1138s/iter; left time: 135.9755s
+	speed: 0.1137s/iter; left time: 124.5476s
+	speed: 0.1138s/iter; left time: 113.1912s
+	speed: 0.1138s/iter; left time: 101.8615s
+	speed: 0.1137s/iter; left time: 90.4290s
+	speed: 0.1138s/iter; left time: 79.1115s
+	speed: 0.1138s/iter; left time: 67.6954s
+	speed: 0.1138s/iter; left time: 56.3118s
+	speed: 0.1138s/iter; left time: 44.9370s
+	speed: 0.1143s/iter; left time: 33.7066s
+	speed: 0.1138s/iter; left time: 22.1923s
+	speed: 0.1138s/iter; left time: 10.8117s
+Epoch: 1, Cost time: 250.937s 
+anormly_ratio 0.4
+Threshold : 0.03227335813641555
+pa_accuracy           : 0.9760
+pa_precision          : 0.9152
+pa_recall             : 0.6229
+pa_f_score            : 0.7413
+MCC_score             : 0.7441
+Affiliation precision : 0.4838
+Affiliation recall    : 0.9158
+R_AUC_ROC             : 0.6512
+R_AUC_PR              : 0.6346
+VUS_ROC               : 0.6577
+VUS_PR                : 0.6407
+Accuracy : 0.9760, Precision : 0.9152, Recall : 0.6229, F-score : 0.7413 
+
+
+
+2024-10-19 10:41:12
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1275s/iter; left time: 267.1010s
+	speed: 0.1136s/iter; left time: 226.5751s
+	speed: 0.1136s/iter; left time: 215.2668s
+	speed: 0.1136s/iter; left time: 203.9075s
+	speed: 0.1137s/iter; left time: 192.7677s
+	speed: 0.1136s/iter; left time: 181.2423s
+	speed: 0.1137s/iter; left time: 170.0004s
+	speed: 0.1137s/iter; left time: 158.5843s
+	speed: 0.1137s/iter; left time: 147.2035s
+	speed: 0.1138s/iter; left time: 135.9384s
+	speed: 0.1137s/iter; left time: 124.5054s
+	speed: 0.1138s/iter; left time: 113.1993s
+	speed: 0.1138s/iter; left time: 101.8065s
+	speed: 0.1137s/iter; left time: 90.4098s
+	speed: 0.1138s/iter; left time: 79.1190s
+	speed: 0.1137s/iter; left time: 67.6651s
+	speed: 0.1138s/iter; left time: 56.3377s
+	speed: 0.1138s/iter; left time: 44.9548s
+	speed: 0.1137s/iter; left time: 33.5536s
+	speed: 0.1139s/iter; left time: 22.2092s
+	speed: 0.1138s/iter; left time: 10.8099s
+Epoch: 1, Cost time: 250.913s 
+anormly_ratio 0.4
+Threshold : 0.030425906762480748
+pa_accuracy           : 0.9734
+pa_precision          : 0.9046
+pa_recall             : 0.5790
+pa_f_score            : 0.7061
+MCC_score             : 0.7118
+Affiliation precision : 0.4814
+Affiliation recall    : 0.8881
+R_AUC_ROC             : 0.6237
+R_AUC_PR              : 0.6038
+VUS_ROC               : 0.6307
+VUS_PR                : 0.6103
+Accuracy : 0.9734, Precision : 0.9046, Recall : 0.5790, F-score : 0.7061 
+
+
+
+2024-10-19 10:48:30
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1273s/iter; left time: 266.6226s
+	speed: 0.1136s/iter; left time: 226.6459s
+	speed: 0.1136s/iter; left time: 215.1845s
+	speed: 0.1136s/iter; left time: 203.9344s
+	speed: 0.1137s/iter; left time: 192.7671s
+	speed: 0.1137s/iter; left time: 181.3152s
+	speed: 0.1137s/iter; left time: 170.0391s
+	speed: 0.1137s/iter; left time: 158.6062s
+	speed: 0.1138s/iter; left time: 147.3535s
+	speed: 0.1138s/iter; left time: 135.9498s
+	speed: 0.1138s/iter; left time: 124.5718s
+	speed: 0.1138s/iter; left time: 113.2192s
+	speed: 0.1138s/iter; left time: 101.8629s
+	speed: 0.1137s/iter; left time: 90.4172s
+	speed: 0.1138s/iter; left time: 79.1128s
+	speed: 0.1138s/iter; left time: 67.7179s
+	speed: 0.1138s/iter; left time: 56.3278s
+	speed: 0.1138s/iter; left time: 44.9627s
+	speed: 0.1138s/iter; left time: 33.5657s
+	speed: 0.1138s/iter; left time: 22.1943s
+	speed: 0.1138s/iter; left time: 10.8130s
+Epoch: 1, Cost time: 250.937s 
+anormly_ratio 0.4
+Threshold : 0.029152510963380347
+pa_accuracy           : 0.9735
+pa_precision          : 0.9070
+pa_recall             : 0.5790
+pa_f_score            : 0.7068
+MCC_score             : 0.7128
+Affiliation precision : 0.4864
+Affiliation recall    : 0.8977
+R_AUC_ROC             : 0.6236
+R_AUC_PR              : 0.6046
+VUS_ROC               : 0.6307
+VUS_PR                : 0.6112
+Accuracy : 0.9735, Precision : 0.9070, Recall : 0.5790, F-score : 0.7068 
+
+
+
+2024-10-19 10:55:49
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1273s/iter; left time: 266.7176s
+	speed: 0.1136s/iter; left time: 226.6085s
+	speed: 0.1136s/iter; left time: 215.2220s
+	speed: 0.1136s/iter; left time: 203.9135s
+	speed: 0.1137s/iter; left time: 192.6896s
+	speed: 0.1137s/iter; left time: 181.3753s
+	speed: 0.1137s/iter; left time: 170.0075s
+	speed: 0.1138s/iter; left time: 158.6922s
+	speed: 0.1137s/iter; left time: 147.2215s
+	speed: 0.1138s/iter; left time: 135.9400s
+	speed: 0.1137s/iter; left time: 124.5388s
+	speed: 0.1138s/iter; left time: 113.2077s
+	speed: 0.1138s/iter; left time: 101.8733s
+	speed: 0.1137s/iter; left time: 90.3864s
+	speed: 0.1138s/iter; left time: 79.0946s
+	speed: 0.1137s/iter; left time: 67.6577s
+	speed: 0.1138s/iter; left time: 56.3190s
+	speed: 0.1138s/iter; left time: 44.9484s
+	speed: 0.1137s/iter; left time: 33.5554s
+	speed: 0.1138s/iter; left time: 22.1945s
+	speed: 0.1138s/iter; left time: 10.8094s
+Epoch: 1, Cost time: 250.904s 
+anormly_ratio 0.4
+Threshold : 0.02852406209707266
+pa_accuracy           : 0.9734
+pa_precision          : 0.9056
+pa_recall             : 0.5790
+pa_f_score            : 0.7064
+MCC_score             : 0.7122
+Affiliation precision : 0.5084
+Affiliation recall    : 0.8983
+R_AUC_ROC             : 0.6236
+R_AUC_PR              : 0.6040
+VUS_ROC               : 0.6307
+VUS_PR                : 0.6107
+Accuracy : 0.9734, Precision : 0.9056, Recall : 0.5790, F-score : 0.7064 
+
+
+
+2024-10-19 11:03:06
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1273s/iter; left time: 266.6774s
+	speed: 0.1136s/iter; left time: 226.5549s
+	speed: 0.1136s/iter; left time: 215.2866s
+	speed: 0.1136s/iter; left time: 203.9923s
+	speed: 0.1137s/iter; left time: 192.7052s
+	speed: 0.1137s/iter; left time: 181.2778s
+	speed: 0.1138s/iter; left time: 170.0641s
+	speed: 0.1137s/iter; left time: 158.5762s
+	speed: 0.1137s/iter; left time: 147.2597s
+	speed: 0.1138s/iter; left time: 136.0212s
+	speed: 0.1137s/iter; left time: 124.5269s
+	speed: 0.1138s/iter; left time: 113.2238s
+	speed: 0.1138s/iter; left time: 101.8599s
+	speed: 0.1138s/iter; left time: 90.4350s
+	speed: 0.1138s/iter; left time: 79.1036s
+	speed: 0.1138s/iter; left time: 67.6955s
+	speed: 0.1138s/iter; left time: 56.3245s
+	speed: 0.1138s/iter; left time: 44.9686s
+	speed: 0.1138s/iter; left time: 33.5649s
+	speed: 0.1138s/iter; left time: 22.1964s
+	speed: 0.1138s/iter; left time: 10.8124s
+Epoch: 1, Cost time: 250.925s 
+anormly_ratio 0.4
+Threshold : 0.028545840814709705
+pa_accuracy           : 0.9733
+pa_precision          : 0.9032
+pa_recall             : 0.5790
+pa_f_score            : 0.7056
+MCC_score             : 0.7112
+Affiliation precision : 0.5015
+Affiliation recall    : 0.8834
+R_AUC_ROC             : 0.6235
+R_AUC_PR              : 0.6025
+VUS_ROC               : 0.6282
+VUS_PR                : 0.6072
+Accuracy : 0.9733, Precision : 0.9032, Recall : 0.5790, F-score : 0.7056 
+
+
+
+2024-10-19 11:10:24
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1274s/iter; left time: 266.9320s
+	speed: 0.1136s/iter; left time: 226.5631s
+	speed: 0.1135s/iter; left time: 215.1658s
+	speed: 0.1137s/iter; left time: 204.1600s
+	speed: 0.1138s/iter; left time: 192.8493s
+	speed: 0.1137s/iter; left time: 181.3565s
+	speed: 0.1138s/iter; left time: 170.1134s
+	speed: 0.1138s/iter; left time: 158.7613s
+	speed: 0.1138s/iter; left time: 147.3157s
+	speed: 0.1138s/iter; left time: 136.0229s
+	speed: 0.1138s/iter; left time: 124.5917s
+	speed: 0.1138s/iter; left time: 113.2506s
+	speed: 0.1139s/iter; left time: 101.9487s
+	speed: 0.1138s/iter; left time: 90.4662s
+	speed: 0.1139s/iter; left time: 79.1381s
+	speed: 0.1138s/iter; left time: 67.6951s
+	speed: 0.1138s/iter; left time: 56.3305s
+	speed: 0.1139s/iter; left time: 44.9770s
+	speed: 0.1138s/iter; left time: 33.5646s
+	speed: 0.1138s/iter; left time: 22.1958s
+	speed: 0.1142s/iter; left time: 10.8499s
+Epoch: 1, Cost time: 251.178s 
+anormly_ratio 0.4
+Threshold : 0.029144813902676113
+pa_accuracy           : 0.9774
+pa_precision          : 0.9100
+pa_recall             : 0.6548
+pa_f_score            : 0.7616
+MCC_score             : 0.7613
+Affiliation precision : 0.5184
+Affiliation recall    : 0.9465
+R_AUC_ROC             : 0.6583
+R_AUC_PR              : 0.6383
+VUS_ROC               : 0.6753
+VUS_PR                : 0.6543
+Accuracy : 0.9774, Precision : 0.9100, Recall : 0.6548, F-score : 0.7616 
+
+
+
+2024-10-19 11:17:44
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1275s/iter; left time: 267.0145s
+	speed: 0.1135s/iter; left time: 226.4870s
+	speed: 0.1136s/iter; left time: 215.3309s
+	speed: 0.1137s/iter; left time: 204.0234s
+	speed: 0.1137s/iter; left time: 192.7619s
+	speed: 0.1137s/iter; left time: 181.3854s
+	speed: 0.1138s/iter; left time: 170.1218s
+	speed: 0.1137s/iter; left time: 158.6556s
+	speed: 0.1137s/iter; left time: 147.2349s
+	speed: 0.1138s/iter; left time: 135.9712s
+	speed: 0.1138s/iter; left time: 124.5827s
+	speed: 0.1138s/iter; left time: 113.2224s
+	speed: 0.1138s/iter; left time: 101.8853s
+	speed: 0.1138s/iter; left time: 90.4532s
+	speed: 0.1139s/iter; left time: 79.1332s
+	speed: 0.1138s/iter; left time: 67.7182s
+	speed: 0.1138s/iter; left time: 56.3324s
+	speed: 0.1138s/iter; left time: 44.9582s
+	speed: 0.1137s/iter; left time: 33.5561s
+	speed: 0.1139s/iter; left time: 22.2055s
+	speed: 0.1138s/iter; left time: 10.8131s
+Epoch: 1, Cost time: 250.980s 
+anormly_ratio 0.4
+Threshold : 0.030277730256319052
+pa_accuracy           : 0.9758
+pa_precision          : 0.9064
+pa_recall             : 0.6270
+pa_f_score            : 0.7412
+MCC_score             : 0.7426
+Affiliation precision : 0.5018
+Affiliation recall    : 0.9318
+R_AUC_ROC             : 0.6332
+R_AUC_PR              : 0.6129
+VUS_ROC               : 0.6447
+VUS_PR                : 0.6237
+Accuracy : 0.9758, Precision : 0.9064, Recall : 0.6270, F-score : 0.7412 
+
+
+
+2024-10-19 11:25:01
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1277s/iter; left time: 267.5434s
+	speed: 0.1136s/iter; left time: 226.5451s
+	speed: 0.1136s/iter; left time: 215.2849s
+	speed: 0.1136s/iter; left time: 203.8581s
+	speed: 0.1137s/iter; left time: 192.6850s
+	speed: 0.1137s/iter; left time: 181.3285s
+	speed: 0.1137s/iter; left time: 170.0058s
+	speed: 0.1137s/iter; left time: 158.6190s
+	speed: 0.1137s/iter; left time: 147.2277s
+	speed: 0.1138s/iter; left time: 135.9367s
+	speed: 0.1137s/iter; left time: 124.5181s
+	speed: 0.1137s/iter; left time: 113.1522s
+	speed: 0.1137s/iter; left time: 101.8001s
+	speed: 0.1137s/iter; left time: 90.4235s
+	speed: 0.1138s/iter; left time: 79.0732s
+	speed: 0.1137s/iter; left time: 67.6565s
+	speed: 0.1138s/iter; left time: 56.3079s
+	speed: 0.1138s/iter; left time: 44.9336s
+	speed: 0.1137s/iter; left time: 33.5498s
+	speed: 0.1138s/iter; left time: 22.1838s
+	speed: 0.1137s/iter; left time: 10.8055s
+Epoch: 1, Cost time: 250.893s 
+anormly_ratio 0.4
+Threshold : 0.031806872338056624
+pa_accuracy           : 0.9660
+pa_precision          : 0.8696
+pa_recall             : 0.4519
+pa_f_score            : 0.5947
+MCC_score             : 0.6128
+Affiliation precision : 0.5018
+Affiliation recall    : 0.9442
+R_AUC_ROC             : 0.6105
+R_AUC_PR              : 0.5741
+VUS_ROC               : 0.6188
+VUS_PR                : 0.5819
+Accuracy : 0.9660, Precision : 0.8696, Recall : 0.4519, F-score : 0.5947 
+
+
+
+2024-10-19 12:59:55
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.1266s/iter; left time: 265.2863s
+	speed: 0.1129s/iter; left time: 225.1687s
+	speed: 0.1138s/iter; left time: 215.5681s
+	speed: 0.1134s/iter; left time: 203.4939s
+	speed: 0.1130s/iter; left time: 191.4995s
+	speed: 0.1129s/iter; left time: 180.0018s
+	speed: 0.1129s/iter; left time: 168.8124s
+	speed: 0.1129s/iter; left time: 157.4907s
+	speed: 0.1129s/iter; left time: 146.2456s
+	speed: 0.1130s/iter; left time: 135.0105s
+	speed: 0.1129s/iter; left time: 123.6244s
+	speed: 0.1129s/iter; left time: 112.3672s
+	speed: 0.1129s/iter; left time: 101.0537s
+	speed: 0.1129s/iter; left time: 89.7553s
+	speed: 0.1130s/iter; left time: 78.5118s
+	speed: 0.1129s/iter; left time: 67.1888s
+	speed: 0.1129s/iter; left time: 55.9015s
+	speed: 0.1130s/iter; left time: 44.6219s
+	speed: 0.1129s/iter; left time: 33.3131s
+	speed: 0.1130s/iter; left time: 22.0338s
+	speed: 0.1130s/iter; left time: 10.7318s
+Epoch: 1, Cost time: 249.282s 
+anormly_ratio 0.4
+Threshold : 0.031806832149624834
+pa_accuracy           : 0.9660
+pa_precision          : 0.8696
+pa_recall             : 0.4519
+pa_f_score            : 0.5947
+MCC_score             : 0.6128
+Affiliation precision : 0.5018
+Affiliation recall    : 0.9442
+R_AUC_ROC             : 0.6105
+R_AUC_PR              : 0.5741
+VUS_ROC               : 0.6188
+VUS_PR                : 0.5819
+Accuracy : 0.9660, Precision : 0.8696, Recall : 0.4519, F-score : 0.5947 
+
+
+
+2024-10-19 13:07:11
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 64
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 288000
+	speed: 0.2100s/iter; left time: 439.9298s
+	speed: 0.1958s/iter; left time: 390.5642s
+	speed: 0.1959s/iter; left time: 371.2777s
+	speed: 0.1959s/iter; left time: 351.6965s
+	speed: 0.1959s/iter; left time: 332.1079s
+	speed: 0.1960s/iter; left time: 312.6695s
+	speed: 0.1960s/iter; left time: 293.0704s
+	speed: 0.1962s/iter; left time: 273.6392s
+	speed: 0.1964s/iter; left time: 254.2754s
+	speed: 0.1963s/iter; left time: 234.6323s
+	speed: 0.1965s/iter; left time: 215.1510s
+	speed: 0.1965s/iter; left time: 195.4736s
+	speed: 0.1964s/iter; left time: 175.8204s
+	speed: 0.1966s/iter; left time: 156.2679s
+	speed: 0.1967s/iter; left time: 136.6867s
+	speed: 0.1966s/iter; left time: 116.9591s
+	speed: 0.1966s/iter; left time: 97.3094s
+	speed: 0.1967s/iter; left time: 77.6819s
+	speed: 0.1966s/iter; left time: 58.0074s
+	speed: 0.1967s/iter; left time: 38.3505s
+	speed: 0.1967s/iter; left time: 18.6901s
+Epoch: 1, Cost time: 432.209s 
+anormly_ratio 0.4
+Threshold : 0.03208866465091706
+pa_accuracy           : 0.9701
+pa_precision          : 0.8874
+pa_recall             : 0.5260
+pa_f_score            : 0.6605
+MCC_score             : 0.6702
+Affiliation precision : 0.4885
+Affiliation recall    : 0.9396
+R_AUC_ROC             : 0.6278
+R_AUC_PR              : 0.5982
+VUS_ROC               : 0.6371
+VUS_PR                : 0.6073
+Accuracy : 0.9701, Precision : 0.8874, Recall : 0.5260, F-score : 0.6605 
+
+
+
+2024-10-19 13:25:22
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 128
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 576000
+	speed: 4.9468s/iter; left time: 10363.5206s
+	speed: 4.9813s/iter; left time: 9937.6442s
+	speed: 4.9827s/iter; left time: 9442.2837s
+	speed: 4.9776s/iter; left time: 8934.8147s
+	speed: 5.0026s/iter; left time: 8479.4847s
+
+
+
+2024-10-19 14:36:49
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 144000
+	speed: 0.2366s/iter; left time: 236.1438s
+	speed: 0.2229s/iter; left time: 200.2055s
+	speed: 0.2221s/iter; left time: 177.2746s
+	speed: 0.2243s/iter; left time: 156.5934s
+	speed: 0.2257s/iter; left time: 134.9903s
+	speed: 0.2232s/iter; left time: 111.1559s
+	speed: 0.2220s/iter; left time: 88.3678s
+	speed: 0.2221s/iter; left time: 66.2003s
+	speed: 0.2230s/iter; left time: 44.1567s
+	speed: 0.2239s/iter; left time: 21.9406s
+Epoch: 1, Cost time: 246.347s 
+
+
+
+2024-10-19 20:55:21
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 2.5905s/iter; left time: 2585.3684s
+
+
+
+2024-10-19 21:00:23
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+
+
+
+2024-10-19 21:00:45
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 2.5748s/iter; left time: 2569.6175s
+	speed: 2.5998s/iter; left time: 2334.6261s
+	speed: 2.5965s/iter; left time: 2071.9773s
+	speed: 2.5971s/iter; left time: 1812.7738s
+	speed: 2.6149s/iter; left time: 1563.7360s
+	speed: 2.6156s/iter; left time: 1302.5611s
+	speed: 2.6151s/iter; left time: 1040.8103s
+	speed: 2.6153s/iter; left time: 779.3512s
+	speed: 2.6157s/iter; left time: 517.9074s
+	speed: 2.6160s/iter; left time: 256.3706s
+Epoch: 1, Cost time: 2859.710s 
+
+
+
+2024-10-19 22:39:47
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+
+
+
+2024-10-26 15:21:56
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [[20]]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+
+
+
+2024-10-26 15:28:48
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 560640
+
+
+
+2024-10-26 15:33:01
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 560640
+
+
+
+2024-10-26 15:36:39
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size
+
+
+2024-10-26 15:38:39
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 100
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 2.5085s/iter; left time: 2503.4543s
+
+
+
+2024-10-26 15:46:37
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1198s/iter; left time: 119.5172s
+	speed: 0.1056s/iter; left time: 94.8105s
+	speed: 0.1056s/iter; left time: 84.2910s
+	speed: 0.1056s/iter; left time: 73.7323s
+	speed: 0.1056s/iter; left time: 63.1406s
+	speed: 0.1055s/iter; left time: 52.5322s
+	speed: 0.1055s/iter; left time: 41.9873s
+	speed: 0.1056s/iter; left time: 31.4765s
+	speed: 0.1057s/iter; left time: 20.9229s
+	speed: 0.1057s/iter; left time: 10.3570s
+Epoch: 1, Cost time: 117.277s 
+anormly_ratio 0.4
+Threshold : 0.07036352136731129
+Noiserate 0
+pa_accuracy           : 0.9564
+pa_precision          : 0.8053
+pa_recall             : 0.2774
+pa_f_score            : 0.4127
+MCC_score             : 0.4573
+Affiliation precision : 0.4599
+Affiliation recall    : 0.8402
+R_AUC_ROC             : 0.5367
+R_AUC_PR              : 0.4732
+VUS_ROC               : 0.5390
+VUS_PR                : 0.4756
+Accuracy : 0.9564, Precision : 0.8053, Recall : 0.2774, F-score : 0.4127 
+
+
+
+2024-10-26 16:37:28
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1197s/iter; left time: 119.4953s
+	speed: 0.1055s/iter; left time: 94.7827s
+	speed: 0.1056s/iter; left time: 84.2416s
+	speed: 0.1056s/iter; left time: 73.7226s
+	speed: 0.1056s/iter; left time: 63.1462s
+	speed: 0.1055s/iter; left time: 52.5245s
+	speed: 0.1056s/iter; left time: 42.0118s
+	speed: 0.1057s/iter; left time: 31.4886s
+	speed: 0.1059s/iter; left time: 20.9586s
+	speed: 0.1058s/iter; left time: 10.3686s
+Epoch: 1, Cost time: 117.307s 
+anormly_ratio 0.4
+Threshold : 0.06517236801981914
+Noiserate 0
+pa_accuracy           : 0.9793
+pa_precision          : 0.9180
+pa_recall             : 0.6870
+pa_f_score            : 0.7859
+MCC_score             : 0.7843
+Affiliation precision : 0.5177
+Affiliation recall    : 0.9451
+R_AUC_ROC             : 0.7067
+R_AUC_PR              : 0.6880
+VUS_ROC               : 0.6958
+VUS_PR                : 0.6777
+Accuracy : 0.9793, Precision : 0.9180, Recall : 0.6870, F-score : 0.7859 
+
+
+
+2024-10-26 16:49:50
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1197s/iter; left time: 119.4717s
+	speed: 0.1056s/iter; left time: 94.8601s
+	speed: 0.1056s/iter; left time: 84.2714s
+	speed: 0.1057s/iter; left time: 73.7572s
+	speed: 0.1057s/iter; left time: 63.1835s
+	speed: 0.1057s/iter; left time: 52.6261s
+	speed: 0.1057s/iter; left time: 42.0742s
+	speed: 0.1057s/iter; left time: 31.4945s
+	speed: 0.1057s/iter; left time: 20.9199s
+	speed: 0.1057s/iter; left time: 10.3614s
+Epoch: 1, Cost time: 117.358s 
+anormly_ratio 0.4
+Threshold : 0.06189575468003743
+Noiserate 0
+pa_accuracy           : 0.9816
+pa_precision          : 0.9183
+pa_recall             : 0.7313
+pa_f_score            : 0.8142
+MCC_score             : 0.8104
+Affiliation precision : 0.5209
+Affiliation recall    : 0.9555
+R_AUC_ROC             : 0.7413
+R_AUC_PR              : 0.7206
+VUS_ROC               : 0.7344
+VUS_PR                : 0.7140
+Accuracy : 0.9816, Precision : 0.9183, Recall : 0.7313, F-score : 0.8142 
+
+
+
+2024-10-26 17:08:35
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 512
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+
+
+
+2024-10-26 17:08:58
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1199s/iter; left time: 119.6802s
+	speed: 0.1057s/iter; left time: 94.8901s
+	speed: 0.1054s/iter; left time: 84.0873s
+	speed: 0.1054s/iter; left time: 73.6025s
+	speed: 0.1054s/iter; left time: 63.0487s
+	speed: 0.1054s/iter; left time: 52.4855s
+	speed: 0.1054s/iter; left time: 41.9620s
+	speed: 0.1054s/iter; left time: 31.4045s
+	speed: 0.1055s/iter; left time: 20.8840s
+	speed: 0.1054s/iter; left time: 10.3320s
+Epoch: 1, Cost time: 117.131s 
+anormly_ratio 0.4
+Threshold : 0.07036356389522541
+Noiserate 0
+pa_accuracy           : 0.9564
+pa_precision          : 0.8053
+pa_recall             : 0.2774
+pa_f_score            : 0.4127
+MCC_score             : 0.4573
+Affiliation precision : 0.4599
+Affiliation recall    : 0.8402
+R_AUC_ROC             : 0.5367
+R_AUC_PR              : 0.4732
+VUS_ROC               : 0.5390
+VUS_PR                : 0.4756
+Accuracy : 0.9564, Precision : 0.8053, Recall : 0.2774, F-score : 0.4127 
+
+
+
+2024-10-26 17:12:35
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1192s/iter; left time: 118.9347s
+	speed: 0.1050s/iter; left time: 94.3326s
+	speed: 0.1050s/iter; left time: 83.8203s
+	speed: 0.1051s/iter; left time: 73.3328s
+	speed: 0.1051s/iter; left time: 62.8280s
+	speed: 0.1050s/iter; left time: 52.3116s
+	speed: 0.1051s/iter; left time: 41.8397s
+	speed: 0.1050s/iter; left time: 31.2972s
+	speed: 0.1051s/iter; left time: 20.8071s
+	speed: 0.1050s/iter; left time: 10.2919s
+Epoch: 1, Cost time: 116.672s 
+anormly_ratio 0.4
+Threshold : 0.06514522337913509
+Noiserate 0
+pa_accuracy           : 0.9658
+pa_precision          : 0.8716
+pa_recall             : 0.4465
+pa_f_score            : 0.5905
+MCC_score             : 0.6098
+Affiliation precision : 0.4890
+Affiliation recall    : 0.8771
+R_AUC_ROC             : 0.5830
+R_AUC_PR              : 0.5491
+VUS_ROC               : 0.5866
+VUS_PR                : 0.5527
+Accuracy : 0.9658, Precision : 0.8716, Recall : 0.4465, F-score : 0.5905 
+
+
+
+2024-10-26 17:16:13
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1189s/iter; left time: 118.6607s
+	speed: 0.1051s/iter; left time: 94.3450s
+	speed: 0.1050s/iter; left time: 83.8179s
+	speed: 0.1051s/iter; left time: 73.3726s
+	speed: 0.1051s/iter; left time: 62.8504s
+	speed: 0.1051s/iter; left time: 52.3171s
+	speed: 0.1051s/iter; left time: 41.8471s
+	speed: 0.1050s/iter; left time: 31.3041s
+	speed: 0.1052s/iter; left time: 20.8259s
+	speed: 0.1051s/iter; left time: 10.2991s
+Epoch: 1, Cost time: 116.683s 
+anormly_ratio 0.4
+Threshold : 0.06106449399888512
+Noiserate 0
+pa_accuracy           : 0.9774
+pa_precision          : 0.9059
+pa_recall             : 0.6588
+pa_f_score            : 0.7629
+MCC_score             : 0.7618
+Affiliation precision : 0.5306
+Affiliation recall    : 0.9267
+R_AUC_ROC             : 0.6789
+R_AUC_PR              : 0.6565
+VUS_ROC               : 0.6758
+VUS_PR                : 0.6537
+Accuracy : 0.9774, Precision : 0.9059, Recall : 0.6588, F-score : 0.7629 
+
+
+
+2024-10-26 17:19:50
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1192s/iter; left time: 118.9981s
+	speed: 0.1062s/iter; left time: 95.3490s
+	speed: 0.1057s/iter; left time: 84.3565s
+	speed: 0.1057s/iter; left time: 73.7441s
+	speed: 0.1062s/iter; left time: 63.4925s
+	speed: 0.1059s/iter; left time: 52.7427s
+	speed: 0.1060s/iter; left time: 42.1822s
+	speed: 0.1059s/iter; left time: 31.5476s
+	speed: 0.1061s/iter; left time: 21.0064s
+	speed: 0.1074s/iter; left time: 10.5203s
+Epoch: 1, Cost time: 117.682s 
+anormly_ratio 0.4
+Threshold : 0.05826778806746002
+Noiserate 0
+pa_accuracy           : 0.9812
+pa_precision          : 0.9131
+pa_recall             : 0.7293
+pa_f_score            : 0.8109
+MCC_score             : 0.8067
+Affiliation precision : 0.5530
+Affiliation recall    : 0.9525
+R_AUC_ROC             : 0.7189
+R_AUC_PR              : 0.6971
+VUS_ROC               : 0.7191
+VUS_PR                : 0.6974
+Accuracy : 0.9812, Precision : 0.9131, Recall : 0.7293, F-score : 0.8109 
+
+
+
+2024-10-26 17:23:28
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1215s/iter; left time: 121.2508s
+	speed: 0.1056s/iter; left time: 94.8331s
+	speed: 0.1058s/iter; left time: 84.4350s
+	speed: 0.1060s/iter; left time: 74.0168s
+	speed: 0.1057s/iter; left time: 63.2120s
+	speed: 0.1075s/iter; left time: 53.5318s
+	speed: 0.1067s/iter; left time: 42.4546s
+	speed: 0.1059s/iter; left time: 31.5664s
+	speed: 0.1062s/iter; left time: 21.0183s
+	speed: 0.1060s/iter; left time: 10.3867s
+Epoch: 1, Cost time: 117.990s 
+anormly_ratio 0.4
+Threshold : 0.056711480021476746
+Noiserate 0
+pa_accuracy           : 0.9843
+pa_precision          : 0.9210
+pa_recall             : 0.7820
+pa_f_score            : 0.8458
+MCC_score             : 0.8407
+Affiliation precision : 0.5682
+Affiliation recall    : 0.9583
+R_AUC_ROC             : 0.7577
+R_AUC_PR              : 0.7375
+VUS_ROC               : 0.7554
+VUS_PR                : 0.7353\
+
+Accuracy : 0.9843, Precision : 0.9210, Recall : 0.7820, F-score : 0.8458 
+
+
+
+2024-10-26 17:27:07
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1196s/iter; left time: 119.3495s
+	speed: 0.1060s/iter; left time: 95.1527s
+	speed: 0.1060s/iter; left time: 84.5574s
+	speed: 0.1060s/iter; left time: 73.9961s
+	speed: 0.1061s/iter; left time: 63.4202s
+	speed: 0.1060s/iter; left time: 52.7637s
+	speed: 0.1061s/iter; left time: 42.2082s
+	speed: 0.1059s/iter; left time: 31.5583s
+	speed: 0.1060s/iter; left time: 20.9830s
+	speed: 0.1061s/iter; left time: 10.4001s
+Epoch: 1, Cost time: 117.655s 
+anormly_ratio 0.4
+Threshold : 0.056124739378690544
+Noiserate 0
+pa_accuracy           : 0.9826
+pa_precision          : 0.9154
+pa_recall             : 0.7555
+pa_f_score            : 0.8278
+MCC_score             : 0.8229
+Affiliation precision : 0.5536
+Affiliation recall    : 0.9647
+R_AUC_ROC             : 0.7491
+R_AUC_PR              : 0.7267
+VUS_ROC               : 0.7452
+VUS_PR                : 0.7232
+Accuracy : 0.9826, Precision : 0.9154, Recall : 0.7555, F-score : 0.8278 
+
+
+
+2024-10-26 17:30:46
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1195s/iter; left time: 119.2636s
+	speed: 0.1057s/iter; left time: 94.9611s
+	speed: 0.1057s/iter; left time: 84.3633s
+	speed: 0.1057s/iter; left time: 73.8085s
+	speed: 0.1058s/iter; left time: 63.2918s
+	speed: 0.1058s/iter; left time: 52.6828s
+	speed: 0.1059s/iter; left time: 42.1444s
+	speed: 0.1057s/iter; left time: 31.5127s
+	speed: 0.1059s/iter; left time: 20.9686s
+	speed: 0.1059s/iter; left time: 10.3746s
+Epoch: 1, Cost time: 117.456s 
+anormly_ratio 0.4
+Threshold : 0.056342710435390325
+Noiserate 0
+pa_accuracy           : 0.9895
+pa_precision          : 0.9280
+pa_recall             : 0.8772
+pa_f_score            : 0.9019
+MCC_score             : 0.8967
+Affiliation precision : 0.5637
+Affiliation recall    : 0.9662
+R_AUC_ROC             : 0.8146
+R_AUC_PR              : 0.7943
+VUS_ROC               : 0.8149
+VUS_PR                : 0.7947
+Accuracy : 0.9895, Precision : 0.9280, Recall : 0.8772, F-score : 0.9019 
+
+
+
+2024-10-26 17:34:24
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1199s/iter; left time: 119.6135s
+	speed: 0.1057s/iter; left time: 94.8965s
+	speed: 0.1056s/iter; left time: 84.2623s
+	speed: 0.1057s/iter; left time: 73.7955s
+	speed: 0.1058s/iter; left time: 63.2455s
+	speed: 0.1057s/iter; left time: 52.6563s
+	speed: 0.1059s/iter; left time: 42.1303s
+	speed: 0.1058s/iter; left time: 31.5293s
+	speed: 0.1059s/iter; left time: 20.9728s
+	speed: 0.1058s/iter; left time: 10.3688s
+Epoch: 1, Cost time: 117.446s 
+anormly_ratio 0.4
+Threshold : 0.057406417191028555
+Noiserate 0
+pa_accuracy           : 0.9894
+pa_precision          : 0.9276
+pa_recall             : 0.8772
+pa_f_score            : 0.9017
+MCC_score             : 0.8965
+Affiliation precision : 0.5469
+Affiliation recall    : 0.9590
+R_AUC_ROC             : 0.8144
+R_AUC_PR              : 0.7936
+VUS_ROC               : 0.8148
+VUS_PR                : 0.7943
+Accuracy : 0.9894, Precision : 0.9276, Recall : 0.8772, F-score : 0.9017 
+
+
+
+2024-10-26 17:38:02
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1198s/iter; left time: 119.5420s
+	speed: 0.1057s/iter; left time: 94.9232s
+	speed: 0.1056s/iter; left time: 84.2884s
+	speed: 0.1057s/iter; left time: 73.7778s
+	speed: 0.1058s/iter; left time: 63.2428s
+	speed: 0.1057s/iter; left time: 52.6517s
+	speed: 0.1059s/iter; left time: 42.1448s
+	speed: 0.1058s/iter; left time: 31.5244s
+	speed: 0.1058s/iter; left time: 20.9399s
+	speed: 0.1057s/iter; left time: 10.3615s
+Epoch: 1, Cost time: 117.417s 
+anormly_ratio 0.4
+Threshold : 0.0593013305664062
+Noiserate 0
+pa_accuracy           : 0.9866
+pa_precision          : 0.9251
+pa_recall             : 0.8246
+pa_f_score            : 0.8719
+MCC_score             : 0.8665
+Affiliation precision : 0.5404
+Affiliation recall    : 0.9578
+R_AUC_ROC             : 0.7715
+R_AUC_PR              : 0.7523
+VUS_ROC               : 0.7717
+VUS_PR                : 0.7526
+Accuracy : 0.9866, Precision : 0.9251, Recall : 0.8246, F-score : 0.8719 
+
+
+
+2024-10-26 17:41:41
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1194s/iter; left time: 119.1439s
+	speed: 0.1057s/iter; left time: 94.9128s
+	speed: 0.1057s/iter; left time: 84.3832s
+	speed: 0.1058s/iter; left time: 73.8574s
+	speed: 0.1057s/iter; left time: 63.2243s
+	speed: 0.1056s/iter; left time: 52.6116s
+	speed: 0.1058s/iter; left time: 42.1228s
+	speed: 0.1058s/iter; left time: 31.5272s
+	speed: 0.1059s/iter; left time: 20.9635s
+	speed: 0.1058s/iter; left time: 10.3651s
+Epoch: 1, Cost time: 117.408s 
+anormly_ratio 0.4
+Threshold : 0.061895766451954805
+Noiserate 0
+pa_accuracy           : 0.9816
+pa_precision          : 0.9183
+pa_recall             : 0.7313
+pa_f_score            : 0.8142
+MCC_score             : 0.8104
+Affiliation precision : 0.5209
+Affiliation recall    : 0.9555
+R_AUC_ROC             : 0.7413
+R_AUC_PR              : 0.7206
+VUS_ROC               : 0.7344
+VUS_PR                : 0.7140
+Accuracy : 0.9816, Precision : 0.9183, Recall : 0.7313, F-score : 0.8142 
+
+
+
+2024-10-27 14:06:44
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 16
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 70080
+	speed: 0.0881s/iter; left time: 87.9354s
+	speed: 0.0637s/iter; left time: 57.2384s
+	speed: 0.0637s/iter; left time: 50.8259s
+	speed: 0.0636s/iter; left time: 44.3803s
+	speed: 0.0637s/iter; left time: 38.0947s
+	speed: 0.0638s/iter; left time: 31.7636s
+	speed: 0.0637s/iter; left time: 25.3346s
+	speed: 0.0637s/iter; left time: 18.9960s
+	speed: 0.0638s/iter; left time: 12.6363s
+	speed: 0.0637s/iter; left time: 6.2424s
+Epoch: 1, Cost time: 72.353s 
+anormly_ratio 0.4
+Threshold : 0.05456364263594147
+Noiserate 0
+pa_accuracy           : 0.9648
+pa_precision          : 0.8782
+pa_recall             : 0.4207
+pa_f_score            : 0.5688
+MCC_score             : 0.5939
+Affiliation precision : 0.5355
+Affiliation recall    : 0.9384
+R_AUC_ROC             : 0.6415
+R_AUC_PR              : 0.6095
+VUS_ROC               : 0.6260
+VUS_PR                : 0.5948
+Accuracy : 0.9648, Precision : 0.8782, Recall : 0.4207, F-score : 0.5688 
+
+
+
+2024-10-27 14:09:13
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 140160
+	speed: 0.1191s/iter; left time: 118.8253s
+	speed: 0.1052s/iter; left time: 94.4315s
+	speed: 0.1052s/iter; left time: 83.9185s
+	speed: 0.1053s/iter; left time: 73.4752s
+	speed: 0.1053s/iter; left time: 62.9470s
+	speed: 0.1052s/iter; left time: 52.3948s
+	speed: 0.1053s/iter; left time: 41.8951s
+	speed: 0.1053s/iter; left time: 31.3874s
+	speed: 0.1052s/iter; left time: 20.8330s
+	speed: 0.1052s/iter; left time: 10.3079s
+Epoch: 1, Cost time: 116.822s 
+anormly_ratio 0.4
+Threshold : 0.05634268482029434
+Noiserate 0
+pa_accuracy           : 0.9895
+pa_precision          : 0.9280
+pa_recall             : 0.8772
+pa_f_score            : 0.9019
+MCC_score             : 0.8967
+Affiliation precision : 0.5637
+Affiliation recall    : 0.9662
+R_AUC_ROC             : 0.8146
+R_AUC_PR              : 0.7943
+VUS_ROC               : 0.8149
+VUS_PR                : 0.7947
+Accuracy : 0.9895, Precision : 0.9280, Recall : 0.8772, F-score : 0.9019 
+
+
+
+2024-10-27 14:12:51
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 64
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 280320
+	speed: 0.2023s/iter; left time: 201.9026s
+	speed: 0.1881s/iter; left time: 168.9225s
+	speed: 0.1882s/iter; left time: 150.1966s
+	speed: 0.1881s/iter; left time: 131.3241s
+	speed: 0.1882s/iter; left time: 112.5290s
+	speed: 0.1882s/iter; left time: 93.7318s
+	speed: 0.1887s/iter; left time: 75.0958s
+	speed: 0.1882s/iter; left time: 56.0754s
+	speed: 0.1882s/iter; left time: 37.2698s
+	speed: 0.1882s/iter; left time: 18.4413s
+Epoch: 1, Cost time: 207.905s 
+anormly_ratio 0.4
+Threshold : 0.057875555753707744
+Noiserate 0
+pa_accuracy           : 0.9794
+pa_precision          : 0.9155
+pa_recall             : 0.6907
+pa_f_score            : 0.7874
+MCC_score             : 0.7853
+Affiliation precision : 0.5122
+Affiliation recall    : 0.9270
+R_AUC_ROC             : 0.6670
+R_AUC_PR              : 0.6497
+VUS_ROC               : 0.6793
+VUS_PR                : 0.6613
+Accuracy : 0.9794, Precision : 0.9155, Recall : 0.6907, F-score : 0.7874 
+
+
+
+2024-10-27 14:18:59
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 128
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 560640
+	speed: 1.0709s/iter; left time: 1068.7950s
+	speed: 1.0636s/iter; left time: 955.1210s
+	speed: 1.0634s/iter; left time: 848.6204s
+	speed: 1.0647s/iter; left time: 743.1537s
+	speed: 1.0637s/iter; left time: 636.0723s
+	speed: 1.0635s/iter; left time: 529.5997s
+	speed: 1.0644s/iter; left time: 423.6504s
+	speed: 1.0643s/iter; left time: 317.1519s
+	speed: 1.0663s/iter; left time: 211.1322s
+	speed: 1.0651s/iter; left time: 104.3765s
+Epoch: 1, Cost time: 1168.298s 
+anormly_ratio 0.4
+Threshold : 0.058788839504122635
+Noiserate 0
+pa_accuracy           : 0.9719
+pa_precision          : 0.8922
+pa_recall             : 0.5582
+pa_f_score            : 0.6868
+MCC_score             : 0.6932
+Affiliation precision : 0.5064
+Affiliation recall    : 0.9212
+R_AUC_ROC             : 0.6191
+R_AUC_PR              : 0.5932
+VUS_ROC               : 0.6315
+VUS_PR                : 0.6049
+Accuracy : 0.9719, Precision : 0.8922, Recall : 0.5582, F-score : 0.6868 
+
+
+
+2024-10-28 08:24:57
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 163520
+	speed: 0.1362s/iter; left time: 135.8795s
+	speed: 0.1217s/iter; left time: 109.2673s
+	speed: 0.1217s/iter; left time: 97.0979s
+	speed: 0.1220s/iter; left time: 85.1261s
+	speed: 0.1220s/iter; left time: 72.9567s
+	speed: 0.1221s/iter; left time: 60.8200s
+	speed: 0.1221s/iter; left time: 48.6066s
+	speed: 0.1221s/iter; left time: 36.3985s
+	speed: 0.1222s/iter; left time: 24.2018s
+	speed: 0.1223s/iter; left time: 11.9829s
+Epoch: 1, Cost time: 135.298s 
+anormly_ratio 0.4
+Threshold : 0.05692759482562531
+Noiserate 0
+pa_accuracy           : 0.9867
+pa_precision          : 0.9258
+pa_recall             : 0.8246
+pa_f_score            : 0.8722
+MCC_score             : 0.8669
+Affiliation precision : 0.5472
+Affiliation recall    : 0.9553
+R_AUC_ROC             : 0.8203
+R_AUC_PR              : 0.7983
+VUS_ROC               : 0.8024
+VUS_PR                : 0.7817
+Accuracy : 0.9867, Precision : 0.9258, Recall : 0.8246, F-score : 0.8722 
+
+
+
+2024-10-28 08:30:03
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+params_num 116800
+	speed: 0.1016s/iter; left time: 101.3608s
+	speed: 0.0876s/iter; left time: 78.6848s
+	speed: 0.0875s/iter; left time: 69.8071s
+	speed: 0.0877s/iter; left time: 61.2059s
+	speed: 0.0876s/iter; left time: 52.3935s
+	speed: 0.0878s/iter; left time: 43.7066s
+	speed: 0.0877s/iter; left time: 34.8853s
+	speed: 0.0877s/iter; left time: 26.1218s
+	speed: 0.0876s/iter; left time: 17.3487s
+	speed: 0.0875s/iter; left time: 8.5782s
+Epoch: 1, Cost time: 97.527s 
+anormly_ratio 0.4
+Threshold : 0.05649475368857383
+Noiserate 0
+pa_accuracy           : 0.9804
+pa_precision          : 0.9226
+pa_recall             : 0.7038
+pa_f_score            : 0.7985
+MCC_score             : 0.7964
+Affiliation precision : 0.5226
+Affiliation recall    : 0.9077
+R_AUC_ROC             : 0.6702
+R_AUC_PR              : 0.6559
+VUS_ROC               : 0.6706
+VUS_PR                : 0.6567
+Accuracy : 0.9804, Precision : 0.9226, Recall : 0.7038, F-score : 0.7985 
+
+
+
+2024-10-28 09:30:45
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+params_num 93440
+	speed: 0.0816s/iter; left time: 81.4666s
+	speed: 0.0674s/iter; left time: 60.5664s
+	speed: 0.0674s/iter; left time: 53.7974s
+	speed: 0.0673s/iter; left time: 47.0012s
+	speed: 0.0675s/iter; left time: 40.3538s
+	speed: 0.0675s/iter; left time: 33.6196s
+	speed: 0.0674s/iter; left time: 26.8403s
+	speed: 0.0675s/iter; left time: 20.1226s
+	speed: 0.0675s/iter; left time: 13.3744s
+	speed: 0.0675s/iter; left time: 6.6126s
+Epoch: 1, Cost time: 75.446s 
+anormly_ratio 0.4
+Threshold : 0.056419552460312807
+Noiserate 0
+pa_accuracy           : 0.9835
+pa_precision          : 0.9238
+pa_recall             : 0.7645
+pa_f_score            : 0.8366
+MCC_score             : 0.8322
+Affiliation precision : 0.5263
+Affiliation recall    : 0.9497
+R_AUC_ROC             : 0.7521
+R_AUC_PR              : 0.7333
+VUS_ROC               : 0.7525
+VUS_PR                : 0.7338
+Accuracy : 0.9835, Precision : 0.9238, Recall : 0.7645, F-score : 0.8366 
+
+
+
+2024-10-28 09:45:51
+================ Hyperparameters ===============
+anormly_ratio: 0.4
+batch_size: 256
+d_model: 32
+data_path: HAI
+dataset: HAI
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [20]
+gpu: 0
+index: 137
+input_c: 86
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 86
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+params_num 70080
+	speed: 0.0642s/iter; left time: 64.0226s
+	speed: 0.0499s/iter; left time: 44.7789s
+	speed: 0.0499s/iter; left time: 39.8426s
+	speed: 0.0499s/iter; left time: 34.8251s
+	speed: 0.0499s/iter; left time: 29.8296s
+	speed: 0.0498s/iter; left time: 24.8229s
+	speed: 0.0500s/iter; left time: 19.8896s
+	speed: 0.0500s/iter; left time: 14.8914s
+	speed: 0.0499s/iter; left time: 9.8815s
+	speed: 0.0499s/iter; left time: 4.8938s
+Epoch: 1, Cost time: 56.201s 
+anormly_ratio 0.4
+Threshold : 0.055836073696613295
+Noiserate 0
+pa_accuracy           : 0.9819
+pa_precision          : 0.9217
+pa_recall             : 0.7347
+pa_f_score            : 0.8176
+MCC_score             : 0.8140
+Affiliation precision : 0.5579
+Affiliation recall    : 0.9457
+R_AUC_ROC             : 0.7211
+R_AUC_PR              : 0.7039
+VUS_ROC               : 0.7215
+VUS_PR                : 0.7045
+Accuracy : 0.9819, Precision : 0.9217, Recall : 0.7347, F-score : 0.8176 

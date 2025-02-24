@@ -1,0 +1,2525 @@
+
+
+
+2024-10-20 12:03:48
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0986s/iter; left time: 70.0810s
+	speed: 0.0746s/iter; left time: 45.5591s
+	speed: 0.0745s/iter; left time: 38.0743s
+	speed: 0.0744s/iter; left time: 30.5933s
+	speed: 0.0747s/iter; left time: 23.2237s
+	speed: 0.0745s/iter; left time: 15.7144s
+	speed: 0.0746s/iter; left time: 8.2832s
+	speed: 0.0746s/iter; left time: 0.8207s
+Epoch: 1, Cost time: 62.799s 
+anormly_ratio 0.35
+Threshold : 0.07478910290077331
+pa_accuracy           : 0.9924
+pa_precision          : 0.9290
+pa_recall             : 0.9129
+pa_f_score            : 0.9209
+MCC_score             : 0.9170
+Affiliation precision : 0.5731
+Affiliation recall    : 0.9467
+R_AUC_ROC             : 0.7987
+R_AUC_PR              : 0.7758
+VUS_ROC               : 0.8201
+VUS_PR                : 0.7962
+Accuracy : 0.9924, Precision : 0.9290, Recall : 0.9129, F-score : 0.9209 
+
+
+
+2024-10-20 12:05:53
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0885s/iter; left time: 62.9586s
+	speed: 0.0749s/iter; left time: 45.7386s
+	speed: 0.0747s/iter; left time: 38.1667s
+	speed: 0.0748s/iter; left time: 30.7353s
+	speed: 0.0748s/iter; left time: 23.2510s
+	speed: 0.0746s/iter; left time: 15.7483s
+	speed: 0.0748s/iter; left time: 8.3000s
+	speed: 0.0748s/iter; left time: 0.8233s
+Epoch: 1, Cost time: 61.945s 
+anormly_ratio 0.35
+Threshold : 0.0698701130449772
+pa_accuracy           : 0.9936
+pa_precision          : 0.9298
+pa_recall             : 0.9393
+pa_f_score            : 0.9345
+MCC_score             : 0.9312
+Affiliation precision : 0.5944
+Affiliation recall    : 0.9252
+R_AUC_ROC             : 0.8685
+R_AUC_PR              : 0.8421
+VUS_ROC               : 0.8696
+VUS_PR                : 0.8434
+Accuracy : 0.9936, Precision : 0.9298, Recall : 0.9393, F-score : 0.9345 
+
+
+
+2024-10-20 12:07:57
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0886s/iter; left time: 62.9695s
+	speed: 0.0748s/iter; left time: 45.7141s
+	speed: 0.0747s/iter; left time: 38.1590s
+	speed: 0.0747s/iter; left time: 30.6837s
+	speed: 0.0748s/iter; left time: 23.2612s
+	speed: 0.0747s/iter; left time: 15.7585s
+	speed: 0.0749s/iter; left time: 8.3193s
+	speed: 0.0749s/iter; left time: 0.8240s
+Epoch: 1, Cost time: 61.960s 
+anormly_ratio 0.35
+Threshold : 0.06621072281897097
+pa_accuracy           : 0.9882
+pa_precision          : 0.9168
+pa_recall             : 0.8312
+pa_f_score            : 0.8719
+MCC_score             : 0.8669
+Affiliation precision : 0.5407
+Affiliation recall    : 0.8717
+R_AUC_ROC             : 0.7718
+R_AUC_PR              : 0.7442
+VUS_ROC               : 0.7725
+VUS_PR                : 0.7450
+Accuracy : 0.9882, Precision : 0.9168, Recall : 0.8312, F-score : 0.8719 
+
+
+
+2024-10-20 12:10:02
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0886s/iter; left time: 63.0093s
+	speed: 0.0749s/iter; left time: 45.7934s
+	speed: 0.0748s/iter; left time: 38.2328s
+	speed: 0.0748s/iter; left time: 30.7481s
+	speed: 0.0749s/iter; left time: 23.3054s
+	speed: 0.0748s/iter; left time: 15.7750s
+	speed: 0.0749s/iter; left time: 8.3170s
+	speed: 0.0749s/iter; left time: 0.8243s
+Epoch: 1, Cost time: 62.028s 
+anormly_ratio 0.35
+Threshold : 0.0638884469419719
+pa_accuracy           : 0.9883
+pa_precision          : 0.9187
+pa_recall             : 0.8312
+pa_f_score            : 0.8728
+MCC_score             : 0.8678
+Affiliation precision : 0.5141
+Affiliation recall    : 0.8352
+R_AUC_ROC             : 0.7718
+R_AUC_PR              : 0.7450
+VUS_ROC               : 0.7725
+VUS_PR                : 0.7458
+Accuracy : 0.9883, Precision : 0.9187, Recall : 0.8312, F-score : 0.8728 
+
+
+
+2024-10-20 12:12:06
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0886s/iter; left time: 63.0180s
+	speed: 0.0750s/iter; left time: 45.7957s
+	speed: 0.0749s/iter; left time: 38.2760s
+	speed: 0.0749s/iter; left time: 30.7653s
+	speed: 0.0750s/iter; left time: 23.3274s
+	speed: 0.0748s/iter; left time: 15.7903s
+	speed: 0.0750s/iter; left time: 8.3260s
+	speed: 0.0749s/iter; left time: 0.8243s
+Epoch: 1, Cost time: 62.068s 
+anormly_ratio 0.35
+Threshold : 0.062328258570283686
+pa_accuracy           : 0.9934
+pa_precision          : 0.9246
+pa_recall             : 0.9393
+pa_f_score            : 0.9319
+MCC_score             : 0.9284
+Affiliation precision : 0.5656
+Affiliation recall    : 0.9264
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8397
+VUS_ROC               : 0.8695
+VUS_PR                : 0.8408
+Accuracy : 0.9934, Precision : 0.9246, Recall : 0.9393, F-score : 0.9319 
+
+
+
+2024-10-20 12:14:10
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0889s/iter; left time: 63.2119s
+	speed: 0.0750s/iter; left time: 45.8023s
+	speed: 0.0749s/iter; left time: 38.2927s
+	speed: 0.0750s/iter; left time: 30.8061s
+	speed: 0.0750s/iter; left time: 23.3280s
+	speed: 0.0749s/iter; left time: 15.7973s
+	speed: 0.0750s/iter; left time: 8.3241s
+	speed: 0.0750s/iter; left time: 0.8245s
+Epoch: 1, Cost time: 62.111s 
+anormly_ratio 0.35
+Threshold : 0.06115745758078993
+pa_accuracy           : 0.9933
+pa_precision          : 0.9227
+pa_recall             : 0.9393
+pa_f_score            : 0.9309
+MCC_score             : 0.9274
+Affiliation precision : 0.5949
+Affiliation recall    : 0.9429
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8388
+VUS_ROC               : 0.8694
+VUS_PR                : 0.8399
+Accuracy : 0.9933, Precision : 0.9227, Recall : 0.9393, F-score : 0.9309 
+
+
+
+2024-10-20 12:16:18
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0894s/iter; left time: 63.5401s
+	speed: 0.0748s/iter; left time: 45.7000s
+	speed: 0.0748s/iter; left time: 38.2149s
+	speed: 0.0748s/iter; left time: 30.7600s
+	speed: 0.0748s/iter; left time: 23.2753s
+	speed: 0.0749s/iter; left time: 15.8018s
+	speed: 0.0749s/iter; left time: 8.3158s
+	speed: 0.0749s/iter; left time: 0.8243s
+Epoch: 1, Cost time: 62.092s 
+anormly_ratio 0.35
+Threshold : 0.06031751647777858
+pa_accuracy           : 0.9933
+pa_precision          : 0.9241
+pa_recall             : 0.9393
+pa_f_score            : 0.9316
+MCC_score             : 0.9281
+Affiliation precision : 0.5886
+Affiliation recall    : 0.9410
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8395
+VUS_ROC               : 0.8695
+VUS_PR                : 0.8406
+Accuracy : 0.9933, Precision : 0.9241, Recall : 0.9393, F-score : 0.9316 
+
+
+
+2024-10-20 12:18:23
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0887s/iter; left time: 63.0339s
+	speed: 0.0750s/iter; left time: 45.8040s
+	speed: 0.0750s/iter; left time: 38.2998s
+	speed: 0.0749s/iter; left time: 30.8044s
+	speed: 0.0750s/iter; left time: 23.3394s
+	speed: 0.0749s/iter; left time: 15.8081s
+	speed: 0.0750s/iter; left time: 8.3283s
+	speed: 0.0748s/iter; left time: 0.8231s
+Epoch: 1, Cost time: 62.087s 
+anormly_ratio 0.35
+Threshold : 0.059996310822665724
+pa_accuracy           : 0.9931
+pa_precision          : 0.9200
+pa_recall             : 0.9393
+pa_f_score            : 0.9295
+MCC_score             : 0.9260
+Affiliation precision : 0.5831
+Affiliation recall    : 0.9431
+R_AUC_ROC             : 0.9299
+R_AUC_PR              : 0.8960
+VUS_ROC               : 0.9090
+VUS_PR                : 0.8763
+Accuracy : 0.9931, Precision : 0.9200, Recall : 0.9393, F-score : 0.9295 
+
+
+
+2024-10-20 12:20:27
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0889s/iter; left time: 63.2294s
+	speed: 0.0750s/iter; left time: 45.8061s
+	speed: 0.0750s/iter; left time: 38.3004s
+	speed: 0.0750s/iter; left time: 30.8100s
+	speed: 0.0751s/iter; left time: 23.3424s
+	speed: 0.0749s/iter; left time: 15.8063s
+	speed: 0.0751s/iter; left time: 8.3332s
+	speed: 0.0750s/iter; left time: 0.8252s
+Epoch: 1, Cost time: 62.143s 
+anormly_ratio 0.35
+Threshold : 0.061192028507590396
+pa_accuracy           : 0.9878
+pa_precision          : 0.9087
+pa_recall             : 0.8312
+pa_f_score            : 0.8683
+MCC_score             : 0.8628
+Affiliation precision : 0.5619
+Affiliation recall    : 0.9057
+R_AUC_ROC             : 0.8258
+R_AUC_PR              : 0.7915
+VUS_ROC               : 0.8131
+VUS_PR                : 0.7795
+Accuracy : 0.9878, Precision : 0.9087, Recall : 0.8312, F-score : 0.8683 
+
+
+
+2024-10-20 12:22:32
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0889s/iter; left time: 63.1731s
+	speed: 0.0750s/iter; left time: 45.7954s
+	speed: 0.0749s/iter; left time: 38.2794s
+	speed: 0.0750s/iter; left time: 30.8045s
+	speed: 0.0750s/iter; left time: 23.3391s
+	speed: 0.0749s/iter; left time: 15.8077s
+	speed: 0.0751s/iter; left time: 8.3326s
+	speed: 0.0750s/iter; left time: 0.8252s
+Epoch: 1, Cost time: 62.128s 
+anormly_ratio 0.35
+Threshold : 0.06403426367416981
+pa_accuracy           : 0.9918
+pa_precision          : 0.9162
+pa_recall             : 0.9129
+pa_f_score            : 0.9146
+MCC_score             : 0.9102
+Affiliation precision : 0.5456
+Affiliation recall    : 0.9295
+R_AUC_ROC             : 0.7983
+R_AUC_PR              : 0.7693
+VUS_ROC               : 0.8174
+VUS_PR                : 0.7875
+Accuracy : 0.9918, Precision : 0.9162, Recall : 0.9129, F-score : 0.9146 
+
+
+
+2024-10-20 12:24:36
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 128
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0884s/iter; left time: 62.8779s
+	speed: 0.0750s/iter; left time: 45.8244s
+	speed: 0.0750s/iter; left time: 38.3016s
+	speed: 0.0750s/iter; left time: 30.8250s
+	speed: 0.0751s/iter; left time: 23.3432s
+	speed: 0.0749s/iter; left time: 15.8065s
+	speed: 0.0751s/iter; left time: 8.3349s
+	speed: 0.0750s/iter; left time: 0.8251s
+Epoch: 1, Cost time: 62.103s 
+anormly_ratio 0.35
+Threshold : 0.06860687101259838
+pa_accuracy           : 0.9929
+pa_precision          : 0.9152
+pa_recall             : 0.9393
+pa_f_score            : 0.9271
+MCC_score             : 0.9234
+Affiliation precision : 0.5612
+Affiliation recall    : 0.9324
+R_AUC_ROC             : 0.8682
+R_AUC_PR              : 0.8350
+VUS_ROC               : 0.8880
+VUS_PR                : 0.8539
+Accuracy : 0.9929, Precision : 0.9152, Recall : 0.9393, F-score : 0.9271 
+
+
+
+2024-10-20 14:11:41
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+
+
+
+2024-10-20 14:12:30
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1601s/iter; left time: 48.9915s
+	speed: 0.1456s/iter; left time: 29.9869s
+	speed: 0.1456s/iter; left time: 15.4375s
+	speed: 0.1457s/iter; left time: 0.8742s
+Epoch: 1, Cost time: 60.433s 
+anormly_ratio 0.35
+Threshold : 0.06314904593303802
+pa_accuracy           : 0.9965
+pa_precision          : 0.9327
+pa_recall             : 1.0000
+pa_f_score            : 0.9652
+MCC_score             : 0.9640
+Affiliation precision : 0.5777
+Affiliation recall    : 0.9068
+R_AUC_ROC             : 0.9575
+R_AUC_PR              : 0.9280
+VUS_ROC               : 0.9589
+VUS_PR                : 0.9294
+Accuracy : 0.9965, Precision : 0.9327, Recall : 1.0000, F-score : 0.9652 
+
+
+
+2024-10-20 14:29:33
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1597s/iter; left time: 48.8541s
+	speed: 0.1453s/iter; left time: 29.9399s
+	speed: 0.1454s/iter; left time: 15.4105s
+	speed: 0.1456s/iter; left time: 0.8734s
+Epoch: 1, Cost time: 60.325s 
+anormly_ratio 0.35
+Threshold : 0.07570733500644569
+pa_accuracy           : 0.9935
+pa_precision          : 0.9273
+pa_recall             : 0.9393
+pa_f_score            : 0.9333
+MCC_score             : 0.9299
+Affiliation precision : 0.5608
+Affiliation recall    : 0.9393
+R_AUC_ROC             : 0.8685
+R_AUC_PR              : 0.8411
+VUS_ROC               : 0.8727
+VUS_PR                : 0.8452
+Accuracy : 0.9935, Precision : 0.9273, Recall : 0.9393, F-score : 0.9333 
+
+
+
+2024-10-20 14:31:35
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1600s/iter; left time: 48.9687s
+	speed: 0.1457s/iter; left time: 30.0126s
+	speed: 0.1457s/iter; left time: 15.4480s
+	speed: 0.1460s/iter; left time: 0.8761s
+Epoch: 1, Cost time: 60.480s 
+anormly_ratio 0.35
+Threshold : 0.07089909088239083
+pa_accuracy           : 0.9936
+pa_precision          : 0.9284
+pa_recall             : 0.9393
+pa_f_score            : 0.9338
+MCC_score             : 0.9304
+Affiliation precision : 0.5689
+Affiliation recall    : 0.9101
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8414
+VUS_ROC               : 0.8695
+VUS_PR                : 0.8425
+Accuracy : 0.9936, Precision : 0.9284, Recall : 0.9393, F-score : 0.9338 
+
+
+
+2024-10-20 14:33:39
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1606s/iter; left time: 49.1401s
+	speed: 0.1456s/iter; left time: 29.9891s
+	speed: 0.1467s/iter; left time: 15.5463s
+	speed: 0.1473s/iter; left time: 0.8836s
+Epoch: 1, Cost time: 60.743s 
+anormly_ratio 0.35
+Threshold : 0.06667473463714127
+pa_accuracy           : 0.9923
+pa_precision          : 0.9276
+pa_recall             : 0.9129
+pa_f_score            : 0.9202
+MCC_score             : 0.9162
+Affiliation precision : 0.5828
+Affiliation recall    : 0.9152
+R_AUC_ROC             : 0.7984
+R_AUC_PR              : 0.7746
+VUS_ROC               : 0.7993
+VUS_PR                : 0.7756
+Accuracy : 0.9923, Precision : 0.9276, Recall : 0.9129, F-score : 0.9202 
+
+
+
+2024-10-20 14:35:41
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1614s/iter; left time: 49.3766s
+	speed: 0.1466s/iter; left time: 30.2092s
+	speed: 0.1457s/iter; left time: 15.4435s
+	speed: 0.1458s/iter; left time: 0.8747s
+Epoch: 1, Cost time: 60.679s 
+anormly_ratio 0.35
+Threshold : 0.06313152907788758
+pa_accuracy           : 0.9924
+pa_precision          : 0.9293
+pa_recall             : 0.9129
+pa_f_score            : 0.9211
+MCC_score             : 0.9171
+Affiliation precision : 0.5745
+Affiliation recall    : 0.9151
+R_AUC_ROC             : 0.7985
+R_AUC_PR              : 0.7754
+VUS_ROC               : 0.7994
+VUS_PR                : 0.7765
+Accuracy : 0.9924, Precision : 0.9293, Recall : 0.9129, F-score : 0.9211 
+
+
+
+2024-10-20 14:37:43
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1602s/iter; left time: 49.0236s
+	speed: 0.1457s/iter; left time: 30.0124s
+	speed: 0.1457s/iter; left time: 15.4412s
+	speed: 0.1457s/iter; left time: 0.8744s
+Epoch: 1, Cost time: 60.464s 
+anormly_ratio 0.35
+Threshold : 0.06029386988654733
+pa_accuracy           : 0.9923
+pa_precision          : 0.9259
+pa_recall             : 0.9129
+pa_f_score            : 0.9194
+MCC_score             : 0.9154
+Affiliation precision : 0.5565
+Affiliation recall    : 0.9038
+R_AUC_ROC             : 0.8581
+R_AUC_PR              : 0.8304
+VUS_ROC               : 0.8378
+VUS_PR                : 0.8113
+Accuracy : 0.9923, Precision : 0.9259, Recall : 0.9129, F-score : 0.9194 
+
+
+
+2024-10-20 14:39:45
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1615s/iter; left time: 49.4127s
+	speed: 0.1474s/iter; left time: 30.3570s
+	speed: 0.1459s/iter; left time: 15.4685s
+	speed: 0.1460s/iter; left time: 0.8761s
+Epoch: 1, Cost time: 60.811s 
+anormly_ratio 0.35
+Threshold : 0.05812835320830345
+pa_accuracy           : 0.9823
+pa_precision          : 0.9024
+pa_recall             : 0.7110
+pa_f_score            : 0.7953
+MCC_score             : 0.7923
+Affiliation precision : 0.5052
+Affiliation recall    : 0.8637
+R_AUC_ROC             : 0.7325
+R_AUC_PR              : 0.6997
+VUS_ROC               : 0.7254
+VUS_PR                : 0.6932
+Accuracy : 0.9823, Precision : 0.9024, Recall : 0.7110, F-score : 0.7953 
+
+
+
+2024-10-20 14:41:49
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1604s/iter; left time: 49.0886s
+	speed: 0.1460s/iter; left time: 30.0833s
+	speed: 0.1462s/iter; left time: 15.4920s
+	speed: 0.1462s/iter; left time: 0.8770s
+Epoch: 1, Cost time: 60.610s 
+anormly_ratio 0.35
+Threshold : 0.056829734455794124
+pa_accuracy           : 0.9853
+pa_precision          : 0.9116
+pa_recall             : 0.7717
+pa_f_score            : 0.8358
+MCC_score             : 0.8314
+Affiliation precision : 0.5140
+Affiliation recall    : 0.8711
+R_AUC_ROC             : 0.7523
+R_AUC_PR              : 0.7231
+VUS_ROC               : 0.7627
+VUS_PR                : 0.7331
+Accuracy : 0.9853, Precision : 0.9116, Recall : 0.7717, F-score : 0.8358 
+
+
+
+2024-10-20 14:43:51
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1602s/iter; left time: 49.0115s
+	speed: 0.1461s/iter; left time: 30.0921s
+	speed: 0.1462s/iter; left time: 15.4925s
+	speed: 0.1462s/iter; left time: 0.8771s
+Epoch: 1, Cost time: 60.593s 
+anormly_ratio 0.35
+Threshold : 0.05744632550328989
+pa_accuracy           : 0.9852
+pa_precision          : 0.9075
+pa_recall             : 0.7717
+pa_f_score            : 0.8341
+MCC_score             : 0.8293
+Affiliation precision : 0.5517
+Affiliation recall    : 0.8274
+R_AUC_ROC             : 0.7522
+R_AUC_PR              : 0.7210
+VUS_ROC               : 0.7530
+VUS_PR                : 0.7219
+Accuracy : 0.9852, Precision : 0.9075, Recall : 0.7717, F-score : 0.8341 
+
+
+
+2024-10-20 14:45:54
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1612s/iter; left time: 49.3352s
+	speed: 0.1458s/iter; left time: 30.0298s
+	speed: 0.1458s/iter; left time: 15.4589s
+	speed: 0.1470s/iter; left time: 0.8821s
+Epoch: 1, Cost time: 60.722s 
+anormly_ratio 0.35
+Threshold : 0.05979487495310609
+pa_accuracy           : 0.9865
+pa_precision          : 0.9115
+pa_recall             : 0.7980
+pa_f_score            : 0.8510
+MCC_score             : 0.8460
+Affiliation precision : 0.5112
+Affiliation recall    : 0.8145
+R_AUC_ROC             : 0.8130
+R_AUC_PR              : 0.7806
+VUS_ROC               : 0.8139
+VUS_PR                : 0.7816
+Accuracy : 0.9865, Precision : 0.9115, Recall : 0.7980, F-score : 0.8510 
+
+
+
+2024-10-20 14:47:57
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1604s/iter; left time: 49.0964s
+	speed: 0.1460s/iter; left time: 30.0769s
+	speed: 0.1461s/iter; left time: 15.4887s
+	speed: 0.1460s/iter; left time: 0.8762s
+Epoch: 1, Cost time: 60.594s 
+anormly_ratio 0.35
+Threshold : 0.06314903645962479
+pa_accuracy           : 0.9965
+pa_precision          : 0.9327
+pa_recall             : 1.0000
+pa_f_score            : 0.9652
+MCC_score             : 0.9640
+Affiliation precision : 0.5777
+Affiliation recall    : 0.9068
+R_AUC_ROC             : 0.9575
+R_AUC_PR              : 0.9280
+VUS_ROC               : 0.9589
+VUS_PR                : 0.9294
+Accuracy : 0.9965, Precision : 0.9327, Recall : 1.0000, F-score : 0.9652 
+
+
+
+2024-10-20 14:49:59
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1603s/iter; left time: 49.0451s
+	speed: 0.1460s/iter; left time: 30.0824s
+	speed: 0.1461s/iter; left time: 15.4897s
+	speed: 0.1461s/iter; left time: 0.8769s
+Epoch: 1, Cost time: 60.593s 
+anormly_ratio 0.35
+Threshold : 0.06728893943130973
+pa_accuracy           : 0.9883
+pa_precision          : 0.9180
+pa_recall             : 0.8312
+pa_f_score            : 0.8725
+MCC_score             : 0.8675
+Affiliation precision : 0.5450
+Affiliation recall    : 0.9080
+R_AUC_ROC             : 0.8264
+R_AUC_PR              : 0.7969
+VUS_ROC               : 0.8112
+VUS_PR                : 0.7825
+Accuracy : 0.9883, Precision : 0.9180, Recall : 0.8312, F-score : 0.8725 
+
+
+
+2024-10-20 15:00:41
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 16
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 100608
+	speed: 0.0994s/iter; left time: 30.4184s
+	speed: 0.0854s/iter; left time: 17.5945s
+	speed: 0.0852s/iter; left time: 9.0362s
+	speed: 0.0854s/iter; left time: 0.5127s
+Epoch: 1, Cost time: 35.981s 
+anormly_ratio 0.35
+Threshold : 0.06901831995323313
+pa_accuracy           : 0.9933
+pa_precision          : 0.9235
+pa_recall             : 0.9393
+pa_f_score            : 0.9313
+MCC_score             : 0.9278
+Affiliation precision : 0.5706
+Affiliation recall    : 0.9382
+R_AUC_ROC             : 0.8686
+R_AUC_PR              : 0.8397
+VUS_ROC               : 0.8867
+VUS_PR                : 0.8568
+Accuracy : 0.9933, Precision : 0.9235, Recall : 0.9393, F-score : 0.9313 
+
+
+
+2024-10-20 15:02:05
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 64
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 402432
+	speed: 0.2826s/iter; left time: 86.4736s
+	speed: 0.2676s/iter; left time: 55.1350s
+	speed: 0.2677s/iter; left time: 28.3736s
+	speed: 0.2677s/iter; left time: 1.6064s
+Epoch: 1, Cost time: 109.905s 
+anormly_ratio 0.35
+Threshold : 0.06787363806739466
+pa_accuracy           : 0.9935
+pa_precision          : 0.9265
+pa_recall             : 0.9393
+pa_f_score            : 0.9328
+MCC_score             : 0.9294
+Affiliation precision : 0.6017
+Affiliation recall    : 0.9081
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8405
+VUS_ROC               : 0.8882
+VUS_PR                : 0.8594
+Accuracy : 0.9935, Precision : 0.9265, Recall : 0.9393, F-score : 0.9328 
+
+
+
+2024-10-20 15:22:02
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 128
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 804864
+	speed: 11.2533s/iter; left time: 3443.5224s
+
+
+
+2024-10-20 22:45:20
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+params_num 17152
+	speed: 0.0271s/iter; left time: 8.2816s
+	speed: 0.0131s/iter; left time: 2.7080s
+	speed: 0.0131s/iter; left time: 1.3938s
+	speed: 0.0128s/iter; left time: 0.0766s
+Epoch: 1, Cost time: 6.687s 
+anormly_ratio 0.35
+Threshold : 0.06715622820705176
+pa_accuracy           : 0.9838
+pa_precision          : 0.9109
+pa_recall             : 0.7373
+pa_f_score            : 0.8149
+MCC_score             : 0.8115
+Affiliation precision : 0.4415
+Affiliation recall    : 0.8216
+R_AUC_ROC             : 0.7894
+R_AUC_PR              : 0.7580
+VUS_ROC               : 0.7701
+VUS_PR                : 0.7398
+Accuracy : 0.9838, Precision : 0.9109, Recall : 0.7373, F-score : 0.8149 
+
+
+
+2024-10-20 22:47:41
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1597s/iter; left time: 48.8801s
+	speed: 0.1454s/iter; left time: 29.9481s
+	speed: 0.1455s/iter; left time: 15.4198s
+	speed: 0.1456s/iter; left time: 0.8735s
+Epoch: 1, Cost time: 60.349s 
+anormly_ratio 0.35
+Threshold : 0.07404561212658883
+pa_accuracy           : 0.9934
+pa_precision          : 0.9249
+pa_recall             : 0.9393
+pa_f_score            : 0.9320
+MCC_score             : 0.9286
+Affiliation precision : 0.5785
+Affiliation recall    : 0.9000
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8399
+VUS_ROC               : 0.8726
+VUS_PR                : 0.8439
+Accuracy : 0.9934, Precision : 0.9249, Recall : 0.9393, F-score : 0.9320 
+
+
+
+2024-10-20 23:01:01
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 256
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 1609728
+
+
+
+2024-10-20 23:02:03
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1603s/iter; left time: 49.0650s
+	speed: 0.1455s/iter; left time: 29.9740s
+	speed: 0.1457s/iter; left time: 15.4494s
+	speed: 0.1458s/iter; left time: 0.8746s
+Epoch: 1, Cost time: 60.470s 
+anormly_ratio 0.35
+Threshold : 0.07386301063373688
+pa_accuracy           : 0.9926
+pa_precision          : 0.9325
+pa_recall             : 0.9129
+pa_f_score            : 0.9226
+MCC_score             : 0.9188
+Affiliation precision : 0.6108
+Affiliation recall    : 0.9224
+R_AUC_ROC             : 0.8585
+R_AUC_PR              : 0.8342
+VUS_ROC               : 0.8575
+VUS_PR                : 0.8333
+Accuracy : 0.9926, Precision : 0.9325, Recall : 0.9129, F-score : 0.9226 
+
+
+
+2024-10-21 23:06:36
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+params_num 100608
+	speed: 0.0823s/iter; left time: 25.1970s
+	speed: 0.0686s/iter; left time: 14.1222s
+	speed: 0.0686s/iter; left time: 7.2706s
+	speed: 0.0685s/iter; left time: 0.4109s
+Epoch: 1, Cost time: 29.143s 
+anormly_ratio 0.35
+Threshold : 0.06493671238422394
+pa_accuracy           : 0.9868
+pa_precision          : 0.9122
+pa_recall             : 0.8049
+pa_f_score            : 0.8552
+MCC_score             : 0.8501
+Affiliation precision : 0.5227
+Affiliation recall    : 0.8628
+R_AUC_ROC             : 0.7106
+R_AUC_PR              : 0.6841
+VUS_ROC               : 0.7258
+VUS_PR                : 0.6985
+Accuracy : 0.9868, Precision : 0.9122, Recall : 0.8049, F-score : 0.8552 
+
+
+
+2024-10-21 23:08:23
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+params_num 134144
+	speed: 0.1070s/iter; left time: 32.7349s
+	speed: 0.0930s/iter; left time: 19.1590s
+	speed: 0.0929s/iter; left time: 9.8487s
+	speed: 0.0931s/iter; left time: 0.5584s
+Epoch: 1, Cost time: 39.067s 
+anormly_ratio 0.35
+Threshold : 0.06818488803133371
+pa_accuracy           : 0.9929
+pa_precision          : 0.9168
+pa_recall             : 0.9393
+pa_f_score            : 0.9279
+MCC_score             : 0.9242
+Affiliation precision : 0.5621
+Affiliation recall    : 0.9089
+R_AUC_ROC             : 0.9294
+R_AUC_PR              : 0.8937
+VUS_ROC               : 0.9087
+VUS_PR                : 0.8741
+Accuracy : 0.9929, Precision : 0.9168, Recall : 0.9393, F-score : 0.9279 
+
+
+
+2024-10-21 23:10:19
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+params_num 167680
+	speed: 0.1357s/iter; left time: 41.5117s
+	speed: 0.1213s/iter; left time: 24.9940s
+	speed: 0.1214s/iter; left time: 12.8677s
+	speed: 0.1212s/iter; left time: 0.7273s
+Epoch: 1, Cost time: 50.570s 
+anormly_ratio 0.35
+Threshold : 0.06808143671974543
+pa_accuracy           : 0.9882
+pa_precision          : 0.9165
+pa_recall             : 0.8312
+pa_f_score            : 0.8718
+MCC_score             : 0.8668
+Affiliation precision : 0.5316
+Affiliation recall    : 0.8946
+R_AUC_ROC             : 0.8261
+R_AUC_PR              : 0.7956
+VUS_ROC               : 0.8118
+VUS_PR                : 0.7821
+Accuracy : 0.9882, Precision : 0.9165, Recall : 0.8312, F-score : 0.8718 
+
+
+
+2024-10-21 23:13:55
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 234752
+	speed: 0.1844s/iter; left time: 56.4394s
+	speed: 0.1699s/iter; left time: 35.0016s
+	speed: 0.1700s/iter; left time: 18.0166s
+	speed: 0.1701s/iter; left time: 1.0204s
+Epoch: 1, Cost time: 70.295s 
+anormly_ratio 0.35
+Threshold : 0.06669133769720804
+pa_accuracy           : 0.9882
+pa_precision          : 0.9159
+pa_recall             : 0.8312
+pa_f_score            : 0.8715
+MCC_score             : 0.8665
+Affiliation precision : 0.5177
+Affiliation recall    : 0.8866
+R_AUC_ROC             : 0.8260
+R_AUC_PR              : 0.7951
+VUS_ROC               : 0.8116
+VUS_PR                : 0.7816
+Accuracy : 0.9882, Precision : 0.9159, Recall : 0.8312, F-score : 0.8715 
+
+
+
+2024-10-21 23:17:01
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1603s/iter; left time: 49.0671s
+	speed: 0.1459s/iter; left time: 30.0454s
+	speed: 0.1452s/iter; left time: 15.3958s
+	speed: 0.1456s/iter; left time: 0.8733s
+Epoch: 1, Cost time: 60.433s 
+anormly_ratio 0.35
+Threshold : 0.06314904593303802
+pa_accuracy           : 0.9965
+pa_precision          : 0.9327
+pa_recall             : 1.0000
+pa_f_score            : 0.9652
+MCC_score             : 0.9640
+Affiliation precision : 0.5777
+Affiliation recall    : 0.9068
+R_AUC_ROC             : 0.9575
+R_AUC_PR              : 0.9280
+VUS_ROC               : 0.9589
+VUS_PR                : 0.9294
+Accuracy : 0.9965, Precision : 0.9327, Recall : 1.0000, F-score : 0.9652 
+
+
+
+2024-10-22 11:07:52
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 16
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 100608
+	speed: 0.0990s/iter; left time: 30.2934s
+	speed: 0.0854s/iter; left time: 17.5896s
+	speed: 0.0853s/iter; left time: 9.0414s
+	speed: 0.0854s/iter; left time: 0.5126s
+Epoch: 1, Cost time: 35.943s 
+anormly_ratio 0.35
+Threshold : 0.06901831793040049
+pa_accuracy           : 0.9933
+pa_precision          : 0.9235
+pa_recall             : 0.9393
+pa_f_score            : 0.9313
+MCC_score             : 0.9278
+Affiliation precision : 0.5706
+Affiliation recall    : 0.9382
+R_AUC_ROC             : 0.8686
+R_AUC_PR              : 0.8397
+VUS_ROC               : 0.8867
+VUS_PR                : 0.8568
+Accuracy : 0.9933, Precision : 0.9235, Recall : 0.9393, F-score : 0.9313 
+
+
+
+2024-10-22 11:09:15
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.1600s/iter; left time: 48.9482s
+	speed: 0.1457s/iter; left time: 30.0048s
+	speed: 0.1458s/iter; left time: 15.4518s
+	speed: 0.1459s/iter; left time: 0.8756s
+Epoch: 1, Cost time: 60.466s 
+anormly_ratio 0.35
+Threshold : 0.06314903645962479
+pa_accuracy           : 0.9965
+pa_precision          : 0.9327
+pa_recall             : 1.0000
+pa_f_score            : 0.9652
+MCC_score             : 0.9640
+Affiliation precision : 0.5777
+Affiliation recall    : 0.9068
+R_AUC_ROC             : 0.9575
+R_AUC_PR              : 0.9280
+VUS_ROC               : 0.9589
+VUS_PR                : 0.9294
+Accuracy : 0.9965, Precision : 0.9327, Recall : 1.0000, F-score : 0.9652 
+
+
+
+2024-10-22 11:11:18
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 64
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 402432
+	speed: 0.2823s/iter; left time: 86.3700s
+	speed: 0.2681s/iter; left time: 55.2383s
+	speed: 0.2677s/iter; left time: 28.3813s
+	speed: 0.2678s/iter; left time: 1.6068s
+Epoch: 1, Cost time: 109.936s 
+
+
+
+2024-10-22 11:14:46
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 64
+d_model: 16
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 100608
+	speed: 0.0380s/iter; left time: 57.7831s
+	speed: 0.0239s/iter; left time: 33.9021s
+	speed: 0.0238s/iter; left time: 31.4600s
+	speed: 0.0239s/iter; left time: 29.1271s
+	speed: 0.0241s/iter; left time: 27.0301s
+	speed: 0.0242s/iter; left time: 24.6738s
+	speed: 0.0242s/iter; left time: 22.2483s
+	speed: 0.0241s/iter; left time: 19.7988s
+	speed: 0.0239s/iter; left time: 17.2480s
+	speed: 0.0240s/iter; left time: 14.8740s
+	speed: 0.0238s/iter; left time: 12.3992s
+	speed: 0.0238s/iter; left time: 10.0396s
+	speed: 0.0241s/iter; left time: 7.7220s
+	speed: 0.0241s/iter; left time: 5.3258s
+	speed: 0.0242s/iter; left time: 2.9230s
+	speed: 0.0242s/iter; left time: 0.5073s
+Epoch: 1, Cost time: 40.304s 
+anormly_ratio 0.35
+Threshold : 0.06727730873599658
+pa_accuracy           : 0.9931
+pa_precision          : 0.9189
+pa_recall             : 0.9393
+pa_f_score            : 0.9290
+MCC_score             : 0.9254
+Affiliation precision : 0.5043
+Affiliation recall    : 0.9131
+R_AUC_ROC             : 0.8683
+R_AUC_PR              : 0.8370
+VUS_ROC               : 0.8693
+VUS_PR                : 0.8380
+Accuracy : 0.9931, Precision : 0.9189, Recall : 0.9393, F-score : 0.9290 
+
+
+
+2024-10-22 11:16:17
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 64
+d_model: 32
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 201216
+	speed: 0.0533s/iter; left time: 81.1395s
+	speed: 0.0393s/iter; left time: 55.8426s
+	speed: 0.0396s/iter; left time: 52.2870s
+	speed: 0.0396s/iter; left time: 48.3398s
+	speed: 0.0395s/iter; left time: 44.2555s
+	speed: 0.0393s/iter; left time: 40.1364s
+	speed: 0.0397s/iter; left time: 36.5430s
+	speed: 0.0398s/iter; left time: 32.6392s
+	speed: 0.0398s/iter; left time: 28.6933s
+	speed: 0.0398s/iter; left time: 24.7361s
+	speed: 0.0400s/iter; left time: 20.8659s
+	speed: 0.0398s/iter; left time: 16.7356s
+	speed: 0.0398s/iter; left time: 12.7760s
+	speed: 0.0396s/iter; left time: 8.7524s
+	speed: 0.0395s/iter; left time: 4.7784s
+	speed: 0.0393s/iter; left time: 0.8246s
+Epoch: 1, Cost time: 65.555s 
+anormly_ratio 0.35
+Threshold : 0.06795893703773623
+pa_accuracy           : 0.9928
+pa_precision          : 0.9149
+pa_recall             : 0.9393
+pa_f_score            : 0.9269
+MCC_score             : 0.9232
+Affiliation precision : 0.5260
+Affiliation recall    : 0.9314
+R_AUC_ROC             : 0.8684
+R_AUC_PR              : 0.8353
+VUS_ROC               : 0.8694
+VUS_PR                : 0.8364
+Accuracy : 0.9928, Precision : 0.9149, Recall : 0.9393, F-score : 0.9269 
+
+
+
+2024-10-22 11:18:27
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 64
+d_model: 64
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 402432
+	speed: 0.0843s/iter; left time: 128.2429s
+	speed: 0.0703s/iter; left time: 99.9444s
+	speed: 0.0703s/iter; left time: 92.9262s
+	speed: 0.0712s/iter; left time: 86.8896s
+	speed: 0.0708s/iter; left time: 79.3403s
+	speed: 0.0701s/iter; left time: 71.6028s
+	speed: 0.0701s/iter; left time: 64.5735s
+	speed: 0.0703s/iter; left time: 57.6924s
+	speed: 0.0701s/iter; left time: 50.5089s
+	speed: 0.0702s/iter; left time: 43.6155s
+	speed: 0.0720s/iter; left time: 37.5287s
+	speed: 0.0701s/iter; left time: 29.5189s
+	speed: 0.0703s/iter; left time: 22.5698s
+	speed: 0.0701s/iter; left time: 15.5003s
+	speed: 0.0705s/iter; left time: 8.5321s
+	speed: 0.0707s/iter; left time: 1.4841s
+Epoch: 1, Cost time: 115.569s 
+anormly_ratio 0.35
+Threshold : 0.06822317103669048
+pa_accuracy           : 0.9930
+pa_precision          : 0.9181
+pa_recall             : 0.9393
+pa_f_score            : 0.9286
+MCC_score             : 0.9250
+Affiliation precision : 0.5600
+Affiliation recall    : 0.9358
+R_AUC_ROC             : 0.8682
+R_AUC_PR              : 0.8365
+VUS_ROC               : 0.8693
+VUS_PR                : 0.8376
+Accuracy : 0.9930, Precision : 0.9181, Recall : 0.9393, F-score : 0.9286 
+
+
+
+2024-10-22 11:21:54
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 64
+d_model: 128
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 804864
+	speed: 0.1450s/iter; left time: 220.5171s
+	speed: 0.1322s/iter; left time: 187.7949s
+	speed: 0.1320s/iter; left time: 174.3531s
+	speed: 0.1314s/iter; left time: 160.4859s
+	speed: 0.1309s/iter; left time: 146.7755s
+	speed: 0.1313s/iter; left time: 134.0198s
+	speed: 0.1317s/iter; left time: 121.2704s
+	speed: 0.1312s/iter; left time: 107.7470s
+	speed: 0.1319s/iter; left time: 95.1194s
+	speed: 0.1310s/iter; left time: 81.3739s
+	speed: 0.1310s/iter; left time: 68.2272s
+	speed: 0.1309s/iter; left time: 55.0979s
+	speed: 0.1309s/iter; left time: 42.0255s
+	speed: 0.1309s/iter; left time: 28.9302s
+	speed: 0.1309s/iter; left time: 15.8380s
+	speed: 0.1309s/iter; left time: 2.7484s
+Epoch: 1, Cost time: 214.034s 
+anormly_ratio 0.35
+Threshold : 0.0681454346440733
+pa_accuracy           : 0.9928
+pa_precision          : 0.9136
+pa_recall             : 0.9393
+pa_f_score            : 0.9262
+MCC_score             : 0.9225
+Affiliation precision : 0.5476
+Affiliation recall    : 0.9374
+R_AUC_ROC             : 0.8683
+R_AUC_PR              : 0.8347
+VUS_ROC               : 0.8694
+VUS_PR                : 0.8357
+Accuracy : 0.9928, Precision : 0.9136, Recall : 0.9393, F-score : 0.9262 
+
+
+
+2024-10-22 11:27:54
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 64
+d_model: 256
+data_path: WaDi
+dataset: WaDi
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 1609728
+	speed: 0.2685s/iter; left time: 408.3700s
+	speed: 0.2543s/iter; left time: 361.3252s
+	speed: 0.2529s/iter; left time: 334.0198s
+	speed: 0.2525s/iter; left time: 308.3580s
+	speed: 0.2526s/iter; left time: 283.1615s
+	speed: 0.2525s/iter; left time: 257.8525s
+	speed: 0.2531s/iter; left time: 233.1131s
+	speed: 0.2534s/iter; left time: 208.0351s
+	speed: 0.2526s/iter; left time: 182.1197s
+	speed: 0.2527s/iter; left time: 156.9357s
+	speed: 0.2527s/iter; left time: 131.6648s
+	speed: 0.2528s/iter; left time: 106.4139s
+	speed: 0.2527s/iter; left time: 81.1174s
+	speed: 0.2536s/iter; left time: 56.0539s
+	speed: 0.2533s/iter; left time: 30.6436s
+	speed: 0.2533s/iter; left time: 5.3193s
+Epoch: 1, Cost time: 411.426s 
+anormly_ratio 0.35
+Threshold : 0.06852229212224495
+pa_accuracy           : 0.9927
+pa_precision          : 0.9114
+pa_recall             : 0.9393
+pa_f_score            : 0.9251
+MCC_score             : 0.9214
+Affiliation precision : 0.5597
+Affiliation recall    : 0.9347
+R_AUC_ROC             : 0.8682
+R_AUC_PR              : 0.8334
+VUS_ROC               : 0.8692
+VUS_PR                : 0.8345
+Accuracy : 0.9927, Precision : 0.9114, Recall : 0.9393, F-score : 0.9251 

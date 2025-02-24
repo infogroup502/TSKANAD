@@ -1,0 +1,2183 @@
+
+
+
+2024-10-19 14:29:54
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+
+
+
+2024-10-19 14:29:59
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 64
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 180480
+
+
+
+2024-10-19 14:30:04
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 128
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 360960
+
+
+
+2024-10-19 14:30:09
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 256
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 721920
+
+
+
+2024-10-19 14:30:14
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 512
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 1443840
+
+
+
+2024-10-19 14:46:48
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1495s/iter; left time: 62.4907s
+	speed: 0.1349s/iter; left time: 42.9095s
+	speed: 0.1360s/iter; left time: 29.6576s
+	speed: 0.1372s/iter; left time: 16.1884s
+	speed: 0.1365s/iter; left time: 2.4565s
+Epoch: 1, Cost time: 71.783s 
+anormly_ratio 0.1
+Threshold : 0.03119065359234814
+pa_accuracy           : 0.9996
+pa_precision          : 0.9916
+pa_recall             : 0.9998
+pa_f_score            : 0.9957
+MCC_score             : 0.9954
+Affiliation precision : 0.6861
+Affiliation recall    : 0.9716
+R_AUC_ROC             : 0.9879
+R_AUC_PR              : 0.9846
+VUS_ROC               : 0.9880
+VUS_PR                : 0.9847
+Accuracy : 0.9996, Precision : 0.9916, Recall : 0.9998, F-score : 0.9957 
+
+
+
+2024-10-19 14:49:14
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 64
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 180480
+	speed: 0.2497s/iter; left time: 104.3706s
+	speed: 0.2358s/iter; left time: 74.9715s
+	speed: 0.2359s/iter; left time: 51.4206s
+	speed: 0.2359s/iter; left time: 27.8399s
+	speed: 0.2360s/iter; left time: 4.2486s
+Epoch: 1, Cost time: 123.344s 
+anormly_ratio 0.1
+Threshold : 0.031921925786882646
+pa_accuracy           : 0.9990
+pa_precision          : 0.9892
+pa_recall             : 0.9901
+pa_f_score            : 0.9897
+MCC_score             : 0.9891
+Affiliation precision : 0.6222
+Affiliation recall    : 0.9758
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8260
+VUS_ROC               : 0.8387
+VUS_PR                : 0.8417
+Accuracy : 0.9990, Precision : 0.9892, Recall : 0.9901, F-score : 0.9897 
+
+
+
+2024-10-19 15:06:22
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 128
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 360960
+	speed: 10.6792s/iter; left time: 4463.8891s
+	speed: 10.7601s/iter; left time: 3421.7051s
+	speed: 10.7547s/iter; left time: 2344.5302s
+	speed: 10.9088s/iter; left time: 1287.2426s
+	speed: 10.7551s/iter; left time: 193.5917s
+Epoch: 1, Cost time: 5568.574s 
+anormly_ratio 0.1
+Threshold : 0.03229759144410514
+
+
+
+2024-10-19 17:53:20
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 256
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 721920
+	speed: 29.7023s/iter; left time: 12415.5718s
+	speed: 29.9084s/iter; left time: 9510.8868s
+
+
+
+2024-10-19 20:16:01
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1495s/iter; left time: 62.4981s
+	speed: 0.1355s/iter; left time: 43.0785s
+	speed: 0.1355s/iter; left time: 29.5407s
+	speed: 0.1353s/iter; left time: 15.9684s
+	speed: 0.1355s/iter; left time: 2.4391s
+Epoch: 1, Cost time: 71.446s 
+anormly_ratio 0.1
+Threshold : 0.03920716615393763
+pa_accuracy           : 0.9985
+pa_precision          : 0.9798
+pa_recall             : 0.9901
+pa_f_score            : 0.9849
+MCC_score             : 0.9842
+Affiliation precision : 0.6363
+Affiliation recall    : 0.9563
+R_AUC_ROC             : 0.8219
+R_AUC_PR              : 0.8213
+VUS_ROC               : 0.8220
+VUS_PR                : 0.8214
+Accuracy : 0.9985, Precision : 0.9798, Recall : 0.9901, F-score : 0.9849 
+
+
+
+2024-10-19 20:18:26
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.1
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1496s/iter; left time: 62.5153s
+	speed: 0.1355s/iter; left time: 43.0930s
+	speed: 0.1358s/iter; left time: 29.5965s
+	speed: 0.1357s/iter; left time: 16.0183s
+	speed: 0.1357s/iter; left time: 2.4433s
+Epoch: 1, Cost time: 71.544s 
+anormly_ratio 0.1
+Threshold : 0.03595078582689168
+pa_accuracy           : 0.9985
+pa_precision          : 0.9789
+pa_recall             : 0.9901
+pa_f_score            : 0.9845
+MCC_score             : 0.9837
+Affiliation precision : 0.6279
+Affiliation recall    : 0.9422
+R_AUC_ROC             : 0.8219
+R_AUC_PR              : 0.8209
+VUS_ROC               : 0.8219
+VUS_PR                : 0.8210
+Accuracy : 0.9985, Precision : 0.9789, Recall : 0.9901, F-score : 0.9845 
+
+
+
+2024-10-19 20:20:51
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1497s/iter; left time: 62.5628s
+	speed: 0.1356s/iter; left time: 43.1349s
+	speed: 0.1357s/iter; left time: 29.5769s
+	speed: 0.1355s/iter; left time: 15.9930s
+	speed: 0.1358s/iter; left time: 2.4436s
+Epoch: 1, Cost time: 71.542s 
+anormly_ratio 0.1
+Threshold : 0.03350514061376461
+pa_accuracy           : 0.9976
+pa_precision          : 0.9790
+pa_recall             : 0.9727
+pa_f_score            : 0.9758
+MCC_score             : 0.9746
+Affiliation precision : 0.6342
+Affiliation recall    : 0.9314
+R_AUC_ROC             : 0.6581
+R_AUC_PR              : 0.6655
+VUS_ROC               : 0.6582
+VUS_PR                : 0.6655
+Accuracy : 0.9976, Precision : 0.9790, Recall : 0.9727, F-score : 0.9758 
+
+
+
+2024-10-19 20:23:16
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.3
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1496s/iter; left time: 62.5171s
+	speed: 0.1357s/iter; left time: 43.1387s
+	speed: 0.1357s/iter; left time: 29.5798s
+	speed: 0.1359s/iter; left time: 16.0307s
+	speed: 0.1359s/iter; left time: 2.4468s
+Epoch: 1, Cost time: 71.584s 
+anormly_ratio 0.1
+Threshold : 0.03173867717385309
+pa_accuracy           : 0.9976
+pa_precision          : 0.9790
+pa_recall             : 0.9727
+pa_f_score            : 0.9758
+MCC_score             : 0.9746
+Affiliation precision : 0.5864
+Affiliation recall    : 0.9130
+R_AUC_ROC             : 0.6582
+R_AUC_PR              : 0.6656
+VUS_ROC               : 0.6582
+VUS_PR                : 0.6656
+Accuracy : 0.9976, Precision : 0.9790, Recall : 0.9727, F-score : 0.9758 
+
+
+
+2024-10-19 20:25:41
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.4
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1499s/iter; left time: 62.6469s
+	speed: 0.1357s/iter; left time: 43.1625s
+	speed: 0.1358s/iter; left time: 29.5943s
+	speed: 0.1358s/iter; left time: 16.0273s
+	speed: 0.1359s/iter; left time: 2.4466s
+Epoch: 1, Cost time: 71.628s 
+anormly_ratio 0.1
+Threshold : 0.030521003220230634
+pa_accuracy           : 0.9977
+pa_precision          : 0.9801
+pa_recall             : 0.9727
+pa_f_score            : 0.9764
+MCC_score             : 0.9752
+Affiliation precision : 0.5420
+Affiliation recall    : 0.9238
+R_AUC_ROC             : 0.6582
+R_AUC_PR              : 0.6662
+VUS_ROC               : 0.6583
+VUS_PR                : 0.6662
+Accuracy : 0.9977, Precision : 0.9801, Recall : 0.9727, F-score : 0.9764 
+
+
+
+2024-10-19 20:28:05
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.5
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1493s/iter; left time: 62.4171s
+	speed: 0.1356s/iter; left time: 43.1301s
+	speed: 0.1358s/iter; left time: 29.5954s
+	speed: 0.1359s/iter; left time: 16.0318s
+	speed: 0.1359s/iter; left time: 2.4465s
+Epoch: 1, Cost time: 71.566s 
+anormly_ratio 0.1
+Threshold : 0.029709751660004266
+pa_accuracy           : 0.9978
+pa_precision          : 0.9826
+pa_recall             : 0.9727
+pa_f_score            : 0.9776
+MCC_score             : 0.9765
+Affiliation precision : 0.5297
+Affiliation recall    : 0.9160
+R_AUC_ROC             : 0.6583
+R_AUC_PR              : 0.6674
+VUS_ROC               : 0.6583
+VUS_PR                : 0.6675
+Accuracy : 0.9978, Precision : 0.9826, Recall : 0.9727, F-score : 0.9776 
+
+
+
+2024-10-19 20:30:30
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.6
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1499s/iter; left time: 62.6700s
+	speed: 0.1358s/iter; left time: 43.1958s
+	speed: 0.1360s/iter; left time: 29.6512s
+	speed: 0.1360s/iter; left time: 16.0508s
+	speed: 0.1360s/iter; left time: 2.4483s
+Epoch: 1, Cost time: 71.701s 
+anormly_ratio 0.1
+Threshold : 0.02926297811046254
+pa_accuracy           : 0.9978
+pa_precision          : 0.9831
+pa_recall             : 0.9727
+pa_f_score            : 0.9778
+MCC_score             : 0.9767
+Affiliation precision : 0.4858
+Affiliation recall    : 0.8953
+R_AUC_ROC             : 0.6583
+R_AUC_PR              : 0.6677
+VUS_ROC               : 0.6583
+VUS_PR                : 0.6677
+Accuracy : 0.9978, Precision : 0.9831, Recall : 0.9727, F-score : 0.9778 
+
+
+
+2024-10-19 20:32:56
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.7
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1498s/iter; left time: 62.6104s
+	speed: 0.1359s/iter; left time: 43.2284s
+	speed: 0.1361s/iter; left time: 29.6635s
+	speed: 0.1361s/iter; left time: 16.0650s
+	speed: 0.1361s/iter; left time: 2.4496s
+Epoch: 1, Cost time: 71.724s 
+anormly_ratio 0.1
+Threshold : 0.029337814453989825
+pa_accuracy           : 0.9988
+pa_precision          : 0.9858
+pa_recall             : 0.9901
+pa_f_score            : 0.9880
+MCC_score             : 0.9874
+Affiliation precision : 0.5195
+Affiliation recall    : 0.9035
+R_AUC_ROC             : 0.8220
+R_AUC_PR              : 0.8243
+VUS_ROC               : 0.8221
+VUS_PR                : 0.8244
+Accuracy : 0.9988, Precision : 0.9858, Recall : 0.9901, F-score : 0.9880 
+
+
+
+2024-10-19 20:35:21
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.8
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1496s/iter; left time: 62.5448s
+	speed: 0.1360s/iter; left time: 43.2322s
+	speed: 0.1361s/iter; left time: 29.6636s
+	speed: 0.1360s/iter; left time: 16.0426s
+	speed: 0.1359s/iter; left time: 2.4470s
+Epoch: 1, Cost time: 71.675s 
+anormly_ratio 0.1
+Threshold : 0.030015473190695075
+pa_accuracy           : 0.9995
+pa_precision          : 0.9900
+pa_recall             : 0.9998
+pa_f_score            : 0.9949
+MCC_score             : 0.9946
+Affiliation precision : 0.5928
+Affiliation recall    : 0.9709
+R_AUC_ROC             : 0.9877
+R_AUC_PR              : 0.9836
+VUS_ROC               : 0.9879
+VUS_PR                : 0.9837
+Accuracy : 0.9995, Precision : 0.9900, Recall : 0.9998, F-score : 0.9949 
+
+
+
+2024-10-19 20:37:46
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1498s/iter; left time: 62.6265s
+	speed: 0.1359s/iter; left time: 43.2069s
+	speed: 0.1360s/iter; left time: 29.6497s
+	speed: 0.1361s/iter; left time: 16.0571s
+	speed: 0.1362s/iter; left time: 2.4508s
+Epoch: 1, Cost time: 71.714s 
+anormly_ratio 0.1
+Threshold : 0.031190660603344487
+pa_accuracy           : 0.9996
+pa_precision          : 0.9916
+pa_recall             : 0.9998
+pa_f_score            : 0.9957
+MCC_score             : 0.9954
+Affiliation precision : 0.6861
+Affiliation recall    : 0.9716
+R_AUC_ROC             : 0.9879
+R_AUC_PR              : 0.9846
+VUS_ROC               : 0.9880
+VUS_PR                : 0.9847
+Accuracy : 0.9996, Precision : 0.9916, Recall : 0.9998, F-score : 0.9957 
+
+
+
+2024-10-19 20:40:11
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 1.0
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1495s/iter; left time: 62.4799s
+	speed: 0.1359s/iter; left time: 43.2079s
+	speed: 0.1360s/iter; left time: 29.6494s
+	speed: 0.1361s/iter; left time: 16.0562s
+	speed: 0.1361s/iter; left time: 2.4496s
+Epoch: 1, Cost time: 71.668s 
+anormly_ratio 0.1
+Threshold : 0.032801470704376924
+pa_accuracy           : 0.9994
+pa_precision          : 0.9887
+pa_recall             : 0.9998
+pa_f_score            : 0.9942
+MCC_score             : 0.9939
+Affiliation precision : 0.6935
+Affiliation recall    : 0.9724
+R_AUC_ROC             : 0.9879
+R_AUC_PR              : 0.9833
+VUS_ROC               : 0.9880
+VUS_PR                : 0.9834
+Accuracy : 0.9994, Precision : 0.9887, Recall : 0.9998, F-score : 0.9942 
+
+
+
+2024-10-20 22:31:01
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+params_num 7752
+
+
+
+2024-10-20 22:31:23
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+params_num 7752
+	speed: 0.0261s/iter; left time: 10.9021s
+	speed: 0.0121s/iter; left time: 3.8554s
+	speed: 0.0121s/iter; left time: 2.6459s
+	speed: 0.0121s/iter; left time: 1.4318s
+	speed: 0.0117s/iter; left time: 0.2108s
+Epoch: 1, Cost time: 7.625s 
+anormly_ratio 0.1
+Threshold : 0.03238212488591684
+pa_accuracy           : 0.9982
+pa_precision          : 0.9906
+pa_recall             : 0.9727
+pa_f_score            : 0.9816
+MCC_score             : 0.9807
+Affiliation precision : 0.6792
+Affiliation recall    : 0.9301
+R_AUC_ROC             : 0.6584
+R_AUC_PR              : 0.6713
+VUS_ROC               : 0.6746
+VUS_PR                : 0.6867
+Accuracy : 0.9982, Precision : 0.9906, Recall : 0.9727, F-score : 0.9816 
+
+
+
+2024-10-20 22:33:54
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1488s/iter; left time: 62.1858s
+	speed: 0.1347s/iter; left time: 42.8319s
+	speed: 0.1347s/iter; left time: 29.3751s
+	speed: 0.1348s/iter; left time: 15.9016s
+	speed: 0.1348s/iter; left time: 2.4268s
+Epoch: 1, Cost time: 71.076s 
+anormly_ratio 0.1
+Threshold : 0.03745110770314935
+pa_accuracy           : 0.9978
+pa_precision          : 0.9831
+pa_recall             : 0.9727
+pa_f_score            : 0.9778
+MCC_score             : 0.9767
+Affiliation precision : 0.5418
+Affiliation recall    : 0.8293
+R_AUC_ROC             : 0.6583
+R_AUC_PR              : 0.6675
+VUS_ROC               : 0.6583
+VUS_PR                : 0.6676
+Accuracy : 0.9978, Precision : 0.9831, Recall : 0.9727, F-score : 0.9778 
+
+
+
+2024-10-20 22:44:25
+================ Hyperparameters ===============
+anormly_ratio: 0.35
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [15]
+gpu: 0
+index: 137
+input_c: 127
+local_size: [3]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 127
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+params_num 17152
+
+
+
+2024-10-20 23:05:41
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.1495s/iter; left time: 62.4717s
+	speed: 0.1348s/iter; left time: 42.8648s
+	speed: 0.1348s/iter; left time: 29.3887s
+	speed: 0.1349s/iter; left time: 15.9145s
+	speed: 0.1350s/iter; left time: 2.4294s
+Epoch: 1, Cost time: 71.193s 
+anormly_ratio 0.1
+Threshold : 0.03958770694211139
+pa_accuracy           : 0.9977
+pa_precision          : 0.9810
+pa_recall             : 0.9727
+pa_f_score            : 0.9768
+MCC_score             : 0.9756
+Affiliation precision : 0.6225
+Affiliation recall    : 0.9594
+R_AUC_ROC             : 0.6582
+R_AUC_PR              : 0.6666
+VUS_ROC               : 0.7179
+VUS_PR                : 0.7232
+Accuracy : 0.9977, Precision : 0.9810, Recall : 0.9727, F-score : 0.9768 
+
+
+
+2024-10-21 22:26:26
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+grid_size 7
+spline_order 1
+params_num 75200
+	speed: 0.1254s/iter; left time: 52.4351s
+	speed: 0.1117s/iter; left time: 35.5335s
+	speed: 0.1117s/iter; left time: 24.3446s
+	speed: 0.1117s/iter; left time: 13.1845s
+	speed: 0.1118s/iter; left time: 2.0122s
+Epoch: 1, Cost time: 59.144s 
+anormly_ratio 0.1
+Threshold : 0.03319602348655467
+pa_accuracy           : 0.9990
+pa_precision          : 0.9894
+pa_recall             : 0.9901
+pa_f_score            : 0.9898
+MCC_score             : 0.9893
+Affiliation precision : 0.6946
+Affiliation recall    : 0.9782
+R_AUC_ROC             : 0.9832
+R_AUC_PR              : 0.9793
+VUS_ROC               : 0.9490
+VUS_PR                : 0.9467
+Accuracy : 0.9990, Precision : 0.9894, Recall : 0.9901, F-score : 0.9898 
+
+
+
+2024-10-21 22:52:47
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+
+
+
+2024-10-21 22:53:06
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+grid_size 11
+spline_order 1
+params_num 105280
+	speed: 0.1707s/iter; left time: 71.3601s
+	speed: 0.1565s/iter; left time: 49.7794s
+	speed: 0.1567s/iter; left time: 34.1549s
+	speed: 0.1567s/iter; left time: 18.4893s
+	speed: 0.1567s/iter; left time: 2.8202s
+Epoch: 1, Cost time: 82.400s 
+anormly_ratio 0.1
+Threshold : 0.032654814191162625
+pa_accuracy           : 0.9995
+pa_precision          : 0.9911
+pa_recall             : 0.9998
+pa_f_score            : 0.9954
+MCC_score             : 0.9952
+Affiliation precision : 0.6678
+Affiliation recall    : 0.9780
+R_AUC_ROC             : 0.9879
+R_AUC_PR              : 0.9844
+VUS_ROC               : 0.9880
+VUS_PR                : 0.9845
+Accuracy : 0.9995, Precision : 0.9911, Recall : 0.9998, F-score : 0.9954 
+
+
+
+2024-10-21 22:56:40
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+grid_size 5
+spline_order 1
+params_num 60160
+	speed: 0.1003s/iter; left time: 41.9243s
+	speed: 0.0867s/iter; left time: 27.5742s
+	speed: 0.0867s/iter; left time: 18.8945s
+	speed: 0.0868s/iter; left time: 10.2429s
+	speed: 0.0868s/iter; left time: 1.5622s
+Epoch: 1, Cost time: 46.207s 
+anormly_ratio 0.1
+Threshold : 0.032439790401607896
+pa_accuracy           : 0.9990
+pa_precision          : 0.9901
+pa_recall             : 0.9901
+pa_f_score            : 0.9901
+MCC_score             : 0.9896
+Affiliation precision : 0.6070
+Affiliation recall    : 0.9687
+R_AUC_ROC             : 0.9831
+R_AUC_PR              : 0.9794
+VUS_ROC               : 0.9425
+VUS_PR                : 0.9407
+Accuracy : 0.9990, Precision : 0.9901, Recall : 0.9901, F-score : 0.9901 
+
+
+
+2024-10-21 22:58:58
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+grid_size 3
+spline_order 1
+params_num 45120
+	speed: 0.0775s/iter; left time: 32.4140s
+	speed: 0.0637s/iter; left time: 20.2589s
+	speed: 0.0638s/iter; left time: 13.8999s
+	speed: 0.0638s/iter; left time: 7.5267s
+	speed: 0.0638s/iter; left time: 1.1479s
+Epoch: 1, Cost time: 34.347s 
+anormly_ratio 0.1
+Threshold : 0.03249615014344454
+pa_accuracy           : 0.9995
+pa_precision          : 0.9909
+pa_recall             : 0.9998
+pa_f_score            : 0.9953
+MCC_score             : 0.9951
+Affiliation precision : 0.6702
+Affiliation recall    : 0.9842
+R_AUC_ROC             : 0.9879
+R_AUC_PR              : 0.9842
+VUS_ROC               : 0.9880
+VUS_PR                : 0.9843
+Accuracy : 0.9995, Precision : 0.9909, Recall : 0.9998, F-score : 0.9953 
+
+
+
+2024-10-21 23:01:47
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 2
+spline_order 2
+grid_size 2
+spline_order 2
+grid_size 2
+spline_order 2
+grid_size 2
+spline_order 2
+params_num 45120
+	speed: 0.1613s/iter; left time: 67.4285s
+	speed: 0.1474s/iter; left time: 46.8687s
+	speed: 0.1476s/iter; left time: 32.1795s
+	speed: 0.1476s/iter; left time: 17.4122s
+	speed: 0.1476s/iter; left time: 2.6565s
+Epoch: 1, Cost time: 77.665s 
+anormly_ratio 0.1
+Threshold : 0.03384317434579138
+pa_accuracy           : 0.9988
+pa_precision          : 0.9865
+pa_recall             : 0.9901
+pa_f_score            : 0.9883
+MCC_score             : 0.9877
+Affiliation precision : 0.6155
+Affiliation recall    : 0.9108
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8247
+VUS_ROC               : 0.8222
+VUS_PR                : 0.8248
+Accuracy : 0.9988, Precision : 0.9865, Recall : 0.9901, F-score : 0.9883 
+
+
+
+2024-10-22 10:54:54
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 16
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 40320
+	speed: 0.0456s/iter; left time: 19.0759s
+	speed: 0.0319s/iter; left time: 10.1323s
+	speed: 0.0318s/iter; left time: 6.9376s
+	speed: 0.0323s/iter; left time: 3.8114s
+	speed: 0.0323s/iter; left time: 0.5812s
+Epoch: 1, Cost time: 17.943s 
+anormly_ratio 0.3
+Threshold : 0.06886606670171022
+pa_accuracy           : 0.9973
+pa_precision          : 0.9565
+pa_recall             : 0.9901
+pa_f_score            : 0.9730
+MCC_score             : 0.9718
+Affiliation precision : 0.5470
+Affiliation recall    : 0.9657
+R_AUC_ROC             : 0.8213
+R_AUC_PR              : 0.8098
+VUS_ROC               : 0.8214
+VUS_PR                : 0.8099
+Accuracy : 0.9973, Precision : 0.9565, Recall : 0.9901, F-score : 0.9730 
+
+
+
+2024-10-22 10:55:50
+================ Hyperparameters ===============
+anormly_ratio: 0.3
+batch_size: 256
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.2
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 30
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 80640
+	speed: 0.0706s/iter; left time: 29.5149s
+	speed: 0.0570s/iter; left time: 18.1118s
+	speed: 0.0572s/iter; left time: 12.4598s
+	speed: 0.0568s/iter; left time: 6.7027s
+	speed: 0.0569s/iter; left time: 1.0236s
+
+
+
+2024-10-22 14:57:58
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 16
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 45120
+	speed: 0.0385s/iter; left time: 75.6606s
+	speed: 0.0247s/iter; left time: 46.1632s
+	speed: 0.0245s/iter; left time: 43.2972s
+	speed: 0.0245s/iter; left time: 40.8844s
+	speed: 0.0247s/iter; left time: 38.6333s
+	speed: 0.0247s/iter; left time: 36.2004s
+	speed: 0.0247s/iter; left time: 33.7447s
+	speed: 0.0247s/iter; left time: 31.2713s
+	speed: 0.0247s/iter; left time: 28.8246s
+	speed: 0.0247s/iter; left time: 26.3793s
+	speed: 0.0246s/iter; left time: 23.7656s
+	speed: 0.0245s/iter; left time: 21.2353s
+	speed: 0.0247s/iter; left time: 18.8926s
+	speed: 0.0247s/iter; left time: 16.4653s
+	speed: 0.0247s/iter; left time: 14.0035s
+	speed: 0.0247s/iter; left time: 11.5148s
+	speed: 0.0247s/iter; left time: 9.0545s
+	speed: 0.0248s/iter; left time: 6.5867s
+	speed: 0.0246s/iter; left time: 4.0913s
+	speed: 0.0246s/iter; left time: 1.6207s
+Epoch: 1, Cost time: 52.326s 
+anormly_ratio 0.1
+Threshold : 0.032998373769223925
+pa_accuracy           : 0.9990
+pa_precision          : 0.9888
+pa_recall             : 0.9901
+pa_f_score            : 0.9894
+MCC_score             : 0.9889
+Affiliation precision : 0.6347
+Affiliation recall    : 0.9805
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8258
+VUS_ROC               : 0.8387
+VUS_PR                : 0.8415
+Accuracy : 0.9990, Precision : 0.9888, Recall : 0.9901, F-score : 0.9894 
+
+
+
+2024-10-22 14:59:53
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 32
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 90240
+	speed: 0.0509s/iter; left time: 100.0710s
+	speed: 0.0371s/iter; left time: 69.2589s
+	speed: 0.0373s/iter; left time: 65.9430s
+	speed: 0.0375s/iter; left time: 62.4629s
+	speed: 0.0376s/iter; left time: 58.8392s
+	speed: 0.0374s/iter; left time: 54.8609s
+	speed: 0.0373s/iter; left time: 50.9750s
+	speed: 0.0372s/iter; left time: 47.1430s
+	speed: 0.0379s/iter; left time: 44.1850s
+	speed: 0.0377s/iter; left time: 40.1913s
+	speed: 0.0374s/iter; left time: 36.1733s
+	speed: 0.0374s/iter; left time: 32.3687s
+	speed: 0.0373s/iter; left time: 28.5343s
+	speed: 0.0376s/iter; left time: 25.0128s
+	speed: 0.0376s/iter; left time: 21.2924s
+	speed: 0.0375s/iter; left time: 17.4875s
+	speed: 0.0374s/iter; left time: 13.6854s
+	speed: 0.0373s/iter; left time: 9.9133s
+	speed: 0.0375s/iter; left time: 6.2254s
+	speed: 0.0376s/iter; left time: 2.4807s
+Epoch: 1, Cost time: 78.696s 
+anormly_ratio 0.1
+Threshold : 0.03304696209356206
+pa_accuracy           : 0.9989
+pa_precision          : 0.9883
+pa_recall             : 0.9901
+pa_f_score            : 0.9892
+MCC_score             : 0.9887
+Affiliation precision : 0.6116
+Affiliation recall    : 0.9719
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8256
+VUS_ROC               : 0.8386
+VUS_PR                : 0.8413
+Accuracy : 0.9989, Precision : 0.9883, Recall : 0.9901, F-score : 0.9892 
+
+
+
+2024-10-22 15:02:29
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 64
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 180480
+	speed: 0.0761s/iter; left time: 149.6325s
+	speed: 0.0624s/iter; left time: 116.4081s
+	speed: 0.0625s/iter; left time: 110.3794s
+	speed: 0.0624s/iter; left time: 103.9303s
+	speed: 0.0625s/iter; left time: 97.8302s
+	speed: 0.0626s/iter; left time: 91.7411s
+	speed: 0.0624s/iter; left time: 85.2155s
+	speed: 0.0625s/iter; left time: 79.0782s
+	speed: 0.0626s/iter; left time: 72.9480s
+	speed: 0.0625s/iter; left time: 66.5827s
+	speed: 0.0625s/iter; left time: 60.3631s
+	speed: 0.0625s/iter; left time: 54.1651s
+	speed: 0.0624s/iter; left time: 47.8304s
+	speed: 0.0625s/iter; left time: 41.6009s
+	speed: 0.0626s/iter; left time: 35.4290s
+	speed: 0.0625s/iter; left time: 29.1041s
+	speed: 0.0624s/iter; left time: 22.8404s
+	speed: 0.0626s/iter; left time: 16.6576s
+	speed: 0.0625s/iter; left time: 10.3672s
+	speed: 0.0624s/iter; left time: 4.1197s
+Epoch: 1, Cost time: 130.405s 
+anormly_ratio 0.1
+Threshold : 0.03335012449324139
+pa_accuracy           : 0.9990
+pa_precision          : 0.9892
+pa_recall             : 0.9901
+pa_f_score            : 0.9897
+MCC_score             : 0.9891
+Affiliation precision : 0.5954
+Affiliation recall    : 0.9798
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8260
+VUS_ROC               : 0.8387
+VUS_PR                : 0.8417
+Accuracy : 0.9990, Precision : 0.9892, Recall : 0.9901, F-score : 0.9897 
+
+
+
+2024-10-22 15:06:25
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 128
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 360960
+	speed: 0.1263s/iter; left time: 248.4027s
+	speed: 0.1125s/iter; left time: 209.8836s
+	speed: 0.1125s/iter; left time: 198.7231s
+	speed: 0.1125s/iter; left time: 187.4120s
+	speed: 0.1126s/iter; left time: 176.2777s
+	speed: 0.1125s/iter; left time: 164.9701s
+	speed: 0.1125s/iter; left time: 153.7226s
+	speed: 0.1125s/iter; left time: 142.4154s
+	speed: 0.1125s/iter; left time: 131.1763s
+	speed: 0.1126s/iter; left time: 119.9967s
+	speed: 0.1125s/iter; left time: 108.7083s
+	speed: 0.1125s/iter; left time: 97.4529s
+	speed: 0.1125s/iter; left time: 86.1662s
+	speed: 0.1125s/iter; left time: 74.9283s
+	speed: 0.1126s/iter; left time: 63.7108s
+	speed: 0.1125s/iter; left time: 52.4431s
+	speed: 0.1126s/iter; left time: 41.2052s
+	speed: 0.1125s/iter; left time: 29.9315s
+	speed: 0.1125s/iter; left time: 18.6739s
+	speed: 0.1125s/iter; left time: 7.4280s
+Epoch: 1, Cost time: 233.762s 
+anormly_ratio 0.1
+Threshold : 0.033478129412978966
+pa_accuracy           : 0.9989
+pa_precision          : 0.9883
+pa_recall             : 0.9901
+pa_f_score            : 0.9892
+MCC_score             : 0.9887
+Affiliation precision : 0.6427
+Affiliation recall    : 0.9781
+R_AUC_ROC             : 0.8221
+R_AUC_PR              : 0.8256
+VUS_ROC               : 0.8386
+VUS_PR                : 0.8413
+Accuracy : 0.9989, Precision : 0.9883, Recall : 0.9901, F-score : 0.9892 
+
+
+
+2024-10-22 15:13:00
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 256
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [30]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [7]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: checkpoints
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 60
+====================  Train  ===================
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+grid_size 9
+spline_order 1
+params_num 721920
+	speed: 0.2278s/iter; left time: 447.7782s
+	speed: 0.2138s/iter; left time: 399.0431s
+	speed: 0.2140s/iter; left time: 377.9151s
+	speed: 0.2141s/iter; left time: 356.6135s
+	speed: 0.2141s/iter; left time: 335.2269s
+	speed: 0.2141s/iter; left time: 313.8670s
+	speed: 0.2141s/iter; left time: 292.4655s
+	speed: 0.2140s/iter; left time: 270.9172s
+	speed: 0.2141s/iter; left time: 249.6736s
+	speed: 0.2141s/iter; left time: 228.2277s
+	speed: 0.2141s/iter; left time: 206.8621s
+	speed: 0.2141s/iter; left time: 185.4491s
+	speed: 0.2141s/iter; left time: 164.0340s
+	speed: 0.2142s/iter; left time: 142.6409s
+	speed: 0.2142s/iter; left time: 121.2549s
+	speed: 0.2142s/iter; left time: 99.8305s
+	speed: 0.2142s/iter; left time: 78.4105s
+	speed: 0.2141s/iter; left time: 56.9604s
+	speed: 0.2142s/iter; left time: 35.5646s
+	speed: 0.2143s/iter; left time: 14.1447s
+Epoch: 1, Cost time: 443.557s 
+anormly_ratio 0.1
+Threshold : 0.03350131255388267
+pa_accuracy           : 0.9995
+pa_precision          : 0.9898
+pa_recall             : 0.9998
+pa_f_score            : 0.9947
+MCC_score             : 0.9945
+Affiliation precision : 0.6247
+Affiliation recall    : 0.9788
+R_AUC_ROC             : 0.9877
+R_AUC_PR              : 0.9835
+VUS_ROC               : 0.9879
+VUS_PR                : 0.9837
+Accuracy : 0.9995, Precision : 0.9898, Recall : 0.9998, F-score : 0.9947 
+
+
+
+2025-02-19 16:20:30
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 256
+d_model: 128
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+params_num 134400
+	speed: 0.1507s/iter; left time: 62.9734s
+	speed: 0.0148s/iter; left time: 4.7002s
+	speed: 0.0147s/iter; left time: 3.2112s
+	speed: 0.0150s/iter; left time: 1.7654s
+	speed: 0.0149s/iter; left time: 0.2673s
+Epoch: 1, Cost time: 21.261s 
+anormly_ratio 0.1
+Threshold : 0.34612618207931567
+Noiserate 0
+pa_accuracy           : 0.9969
+pa_precision          : 0.9656
+pa_recall             : 0.9727
+pa_f_score            : 0.9691
+MCC_score             : 0.9675
+Affiliation precision : 0.6387
+Affiliation recall    : 0.9804
+R_AUC_ROC             : 0.6578
+R_AUC_PR              : 0.6588
+VUS_ROC               : 0.6578
+VUS_PR                : 0.6588
+Accuracy : 0.9969, Precision : 0.9656, Recall : 0.9727, F-score : 0.9691 
+
+
+
+2025-02-19 16:24:22
+================ Hyperparameters ===============
+anormly_ratio: 0.1
+batch_size: 64
+d_model: 128
+data_path: PUMP
+dataset: PUMP
+device_ids: [0, 1, 2, 3]
+devices: 0,1,2,3
+global_size: [5]
+gpu: 0
+index: 137
+input_c: 51
+local_size: [2]
+loss_fuc: MSE
+lr: 0.0001
+model_save_path: train
+mul_num: 3
+num_epochs: 1
+output_c: 51
+r: 0.9
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 5
+====================  Train  ===================
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+grid_size 2
+spline_order 1
+params_num 134400
+	speed: 0.0246s/iter; left time: 48.3984s
+	speed: 0.0111s/iter; left time: 20.6782s
+	speed: 0.0111s/iter; left time: 19.5965s
+	speed: 0.0107s/iter; left time: 17.8967s
+	speed: 0.0111s/iter; left time: 17.3711s
+	speed: 0.0106s/iter; left time: 15.5081s
+	speed: 0.0105s/iter; left time: 14.3726s
+	speed: 0.0105s/iter; left time: 13.3564s
+	speed: 0.0106s/iter; left time: 12.3321s
+	speed: 0.0105s/iter; left time: 11.2442s
+	speed: 0.0104s/iter; left time: 10.0203s
+	speed: 0.0100s/iter; left time: 8.7073s
+	speed: 0.0101s/iter; left time: 7.7389s
+	speed: 0.0101s/iter; left time: 6.7519s
+	speed: 0.0101s/iter; left time: 5.7114s
+	speed: 0.0101s/iter; left time: 4.7022s
+	speed: 0.0101s/iter; left time: 3.6888s
+	speed: 0.0101s/iter; left time: 2.7002s
+	speed: 0.0101s/iter; left time: 1.6790s
+	speed: 0.0100s/iter; left time: 0.6732s
+Epoch: 1, Cost time: 22.950s 
+anormly_ratio 0.1
+Threshold : 0.3527917251586915
+Noiserate 0
+pa_accuracy           : 0.9980
+pa_precision          : 0.9858
+pa_recall             : 0.9727
+pa_f_score            : 0.9792
+MCC_score             : 0.9782
+Affiliation precision : 0.5113
+Affiliation recall    : 0.8801
+R_AUC_ROC             : 0.6583
+R_AUC_PR              : 0.6689
+VUS_ROC               : 0.6584
+VUS_PR                : 0.6689
+Accuracy : 0.9980, Precision : 0.9858, Recall : 0.9727, F-score : 0.9792 
