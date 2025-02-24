@@ -28,7 +28,7 @@ There are six files/folders in the source
 - data_factory: The preprocessing folder/file. All datasets preprocessing codes are here.
 - main.py: The main python file. You can adjustment all parameters in there.
 - metrics: There is the evaluation metrics code folder.
-- model: LTFAD model folder
+- model: TSKANAD model folder
 - solver.py: Another python file. The training, validation, and testing processing are all in there
 - requirements.txt: Python packages needed to run this repo
 
